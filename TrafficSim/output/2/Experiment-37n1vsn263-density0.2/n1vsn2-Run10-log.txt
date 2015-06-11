@@ -1,0 +1,64 @@
+batch mode got it
+
+Starting simulation with random seed = 1433343447323
+
+STEP RESUME
+----------------------------
+Step: 501
+Density: 15.486
+fnorm_average = 2.9729729
+fNonorm_average = 2.3174603
+fitness normalized for norm 1 = 2.9729729
+fitness normalized for norm 2 = 2.3174603
+Previous proportion norm 1 = 37.0
+Previous proportion norm 2 = 63.0
+New proportion fnorm 1 42.96875
+New proportion fnorm 2 57.03125
+Real Proportions... norm (N1) = 45 norm (N2) = 55
+equilibrium = 0
+
+STEP RESUME
+----------------------------
+Step: 1001
+Density: 15.502
+fnorm_average = 0.4646465
+fNonorm_average = 0.054545455
+fitness normalized for norm 1 = 0.4646465
+fitness normalized for norm 2 = 0.054545455
+Previous proportion norm 1 = 45.0
+Previous proportion norm 2 = 55.0
+New proportion fnorm 1 87.45247
+New proportion fnorm 2 12.547527
+Real Proportions... norm (N1) = 89 norm (N2) = 11
+equilibrium = 0
+
+STEP RESUME
+----------------------------
+Step: 1501
+Density: 15.626
+fnorm_average = 8.498467
+fNonorm_average = 3.1818182
+fitness normalized for norm 1 = 8.498467
+fitness normalized for norm 2 = 3.1818182
+Previous proportion norm 1 = 89.0
+Previous proportion norm 2 = 11.0
+New proportion fnorm 1 95.577255
+New proportion fnorm 2 4.4227457
+Real Proportions... norm (N1) = 96 norm (N2) = 4
+equilibrium = 0
+
+STEP RESUME
+----------------------------
+Step: 2001
+Density: 15.692
+fnorm_average = 5.177083
+fNonorm_average = 0.75
+fitness normalized for norm 1 = 5.177083
+fitness normalized for norm 2 = 0.75
+Previous proportion norm 1 = 96.0
+Previous proportion norm 2 = 4.0
+New proportion fnorm 1 99.4
+New proportion fnorm 2 0.6
+Real Proportions... norm (N1) = 100 norm () = 0
+equilibrium = 0
+End of simulation

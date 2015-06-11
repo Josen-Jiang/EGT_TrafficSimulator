@@ -1,0 +1,37 @@
+<repast.simphony.data.logging.outputter.engine.DefaultFileOutputterDescriptor>
+  <name>Traffic data outputter</name>
+  <outputterFactory class="repast.simphony.data.logging.outputter.engine.DefaultFileOutputterDescriptor$1">
+    <outer-class reference="../.."/>
+  </outputterFactory>
+  <dataSetHandler>
+    <dataSets>
+      <string>Traffic data set</string>
+    </dataSets>
+  </dataSetHandler>
+  <streamHandler>
+    <columns>
+      <string>Tick</string>
+      <string>AvgTotalCollisions</string>
+      <string>AvgNoViolCollisions</string>
+      <string>NumberOfCases</string>
+      <string>NumberOfSolutions</string>
+      <string>NumberOfNorms</string>
+      <string>NumberOfActiveNorms</string>
+      <string>NumberOfCarsInScenario</string>
+      <string>CarsThroughput</string>
+      <string>NumberOfStops</string>
+    </columns>
+  </streamHandler>
+  <isBatchAction>false</isBatchAction>
+  <dataSetId class="string">Traffic dataset</dataSetId>
+  <fileName>experiments/data/TrafficDataOutput.dat</fileName>
+  <insertTimeToFileName>false</insertTimeToFileName>
+  <appendToFile>false</appendToFile>
+  <writeHeader>false</writeHeader>
+  <formatType class="repast.simphony.data.logging.outputter.LMDelimitedFormatter">
+    <streamHandler>
+      <columns/>
+    </streamHandler>
+  </formatType>
+  <delimiter> </delimiter>
+</repast.simphony.data.logging.outputter.engine.DefaultFileOutputterDescriptor>

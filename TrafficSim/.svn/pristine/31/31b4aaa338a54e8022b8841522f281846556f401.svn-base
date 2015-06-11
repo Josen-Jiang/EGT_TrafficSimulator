@@ -1,0 +1,252 @@
+package trafficSim;
+
+import java.util.Random;
+
+import repast.simphony.annotate.AgentAnnot;
+import repast.simphony.context.Context;
+import repast.simphony.engine.environment.RunEnvironment;
+import repast.simphony.engine.schedule.ScheduledMethod;
+import repast.simphony.space.grid.Grid;
+import trafficSim.agent.TrafficElement;
+import trafficSim.car.CarAction;
+import trafficSim.config.TrafficConfiguration;
+import trafficSim.map.CarMap;
+import trafficSim.metrics.TrafficMetrics;
+import trafficSim.utils.TrafficGrammar;
+import trafficSim.utils.norms.Norm;
+import trafficSim.utils.norms.NormModality;
+import trafficSim.utils.norms.NormPrecondition;
+
+/**
+ * Scene Manager - Main class of implementation. Controls cooperation
+ * of all the components, agent generation etc.
+ *
+ * @author Javier Morales (jmoralesmat@gmail.com)
+ *
+ */
+@AgentAnnot(displayName = "Main Agent")
+public class Main implements TrafficElement
+{
+
+	//-----------------------------------------------------------------
+	// Static
+	//-----------------------------------------------------------------
+
+	/**
+	 * Random machine
+	 */
+	private static Random random;
+	
+	/**
+	 * 
+	 */
+	private static CarMap carMap = null;
+
+	/**
+	 * 
+	 */
+	public static TrafficGrammar grammar = new TrafficGrammar();
+	
+	//-----------------------------------------------------------------
+	// Attributes
+	//-----------------------------------------------------------------
+
+
+	/**
+	 * 
+	 */
+	private TrafficMetrics trafficMetrics;
+	
+	/**
+	 * 
+	 */
+	private static TrafficConfiguration config;
+	
+	/**
+	 * Other
+	 */	
+	public static long tick = 0;
+
+	
+	//-----------------------------------------------------------------
+	// Methods
+	//-----------------------------------------------------------------
+
+	/**
+	 * Constructor
+	 * 
+	 * @param grid
+	 * @param context
+	 * @param valueLayer
+	 * @param map
+	 */
+	public Main(Context<TrafficElement> context, Grid<TrafficElement> map)
+	{
+		long seed = System.currentTimeMillis();
+
+		TrafficConfiguration.init();
+		
+		// Set the defined seed only if the simulation is not batch and the seed is != 0
+		if(TrafficConfiguration.SIM_RANDOM_SEED != 0l) {
+			seed = TrafficConfiguration.SIM_RANDOM_SEED;
+		}
+		
+		random = new Random(seed);
+		carMap = new CarMap(context, map);
+		
+		System.out.println("\nStarting simulation with random seed = " + seed);
+		
+		// TODO:IOSU
+		this.initNormsPool();
+		
+	}
+
+	/**
+	 * Step method. Controls everything in the simulation
+	 */
+	@ScheduledMethod(start=1, interval=1, priority=2)
+	public void step()
+	{
+		if(tick++ > 0)
+		{
+			System.out.println("\n==================== Tick: " + tick +  " =====================");
+
+			// 1. Move cars, emit cars and handle new collisions
+			carMap.step();
+		}
+				
+		// Step resume
+		this.printStepResume();
+		
+		System.out.println("\n======================= End Step ========================\n");
+
+		// Stop simulation if required update
+		if(tick >= TrafficConfiguration.SIM_MAX_TICKS || this.mustStop())
+		{
+			System.out.println("End of simulation");
+			RunEnvironment.getInstance().endRun();
+			
+//			System.out.println("Tick NSCardinality NSNumClauses NumCreatedGeneralisationNodes NumVisitedGeneralisationNodes " +
+//					"NumCreatedNorms NumVisitedNorms NumVisitedPredicates NumQueriesToNN");
+			
+		}
+	}
+
+	//-----------------------------------------------------------------
+	// Other
+	//-----------------------------------------------------------------
+
+	private void initNormsPool() 
+	{
+		CarMap map = this.getMap();
+		
+		NormPrecondition precond = new NormPrecondition();
+		precond.add("l", ">");
+		precond.add("f", "*");
+		precond.add("r", "*");
+		Norm n1 = new Norm(precond, NormModality.Prohibition, CarAction.Go);
+		n1.setId(1);
+		
+		precond = new NormPrecondition();
+		precond.add("l", "-");
+		precond.add("f", "^");
+		precond.add("r", "-");
+		Norm n2 = new Norm(precond, NormModality.Prohibition, CarAction.Go);
+		n2.setId(2);
+		
+		precond = new NormPrecondition();
+		precond.add("l", "*");
+		precond.add("f", "^");
+		precond.add("r", "*");
+		Norm n3 = new Norm(precond, NormModality.Prohibition, CarAction.Go);
+		n3.setId(3);
+		
+		precond = new NormPrecondition();
+		precond.add("l", "*");
+		precond.add("f", ">");
+		precond.add("r", ">");
+		Norm n4 = new Norm(precond, NormModality.Prohibition, CarAction.Go);
+		n4.setId(4);
+		
+		precond = new NormPrecondition();
+		precond.add("l", "<");
+		precond.add("f", "<");
+		precond.add("r", "*");
+		Norm n5 = new Norm(precond, NormModality.Prohibition, CarAction.Go);
+		n5.setId(5);
+	
+		map.broadcastAddNorm(n1);
+		map.broadcastAddNorm(n2);
+		map.broadcastAddNorm(n3);
+		map.broadcastAddNorm(n4);
+		map.broadcastAddNorm(n5);
+	}
+	
+	/**
+	 * 
+	 */
+	private boolean mustStop() 
+	{
+		return false; // Pon aqui tu condicion de parada :);
+	}
+	
+	/**their own method for traffic regulation
+	 * Prints information about metrics in the current step
+	 */
+	private void printStepResume() {
+		System.out.println("\nSTEP RESUME");
+		System.out.println("----------------------------");
+		System.out.println("Step: " + tick);
+	}
+	
+	//-----------------------------------------------------------------
+	// Static methods
+	//-----------------------------------------------------------------
+
+	/**
+	 * 
+	 * @return
+	 */
+	public static long getTick() {
+		return tick;
+	}
+
+	/**
+	 * 
+	 * @return
+	 */
+	public static Random getRandom() {
+		return random;
+	}
+
+	/**
+	 * 
+	 * @return
+	 */
+	public static CarMap getMap() {
+		return carMap;
+	}
+	
+	/**
+	 * 
+	 */
+	public static TrafficConfiguration getConfig() {
+		return config;
+	}
+
+	@Override
+  public int getX() {
+	  return -1;
+  }
+
+	@Override
+  public int getY() {
+	  return -1;
+  }
+
+	@Override
+  public void move() {
+	  
+  }
+}
+

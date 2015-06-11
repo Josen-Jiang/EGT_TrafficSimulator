@@ -1,0 +1,73 @@
+
+Starting simulation with random seed = 1432555640838
+
+STEP RESUME
+----------------------------
+Step: 501
+fnorm_average = 4.422222
+fNonorm_average = 3.090909
+fitness normalized for norm 1 = 4.422222
+fitness normalized for norm 2 = 3.090909
+Previous proportion norm 1 = 45.0
+Previous proportion norm 2 = 55.0
+New proportion fnorm 1 53.92954
+New proportion fnorm 2 46.07046
+Real Proportions... norm (N1) = 44 norm (N2) = 56
+equilibrium = 0
+
+STEP RESUME
+----------------------------
+Step: 1001
+fnorm_average = 1.3863636
+fNonorm_average = 1.6477273
+fitness normalized for norm 1 = 1.3863636
+fitness normalized for norm 2 = 1.6477273
+Previous proportion norm 1 = 44.0
+Previous proportion norm 2 = 56.0
+New proportion fnorm 1 39.798336
+New proportion fnorm 2 60.201656
+Real Proportions... norm (N1) = 41 norm (N2) = 59
+equilibrium = 0
+
+STEP RESUME
+----------------------------
+Step: 1501
+fnorm_average = 0.4878049
+fNonorm_average = 0.890864
+fitness normalized for norm 1 = 0.4878049
+fitness normalized for norm 2 = 0.890864
+Previous proportion norm 1 = 41.0
+Previous proportion norm 2 = 59.0
+New proportion fnorm 1 27.563026
+New proportion fnorm 2 72.43698
+Real Proportions... norm (N1) = 23 norm (N2) = 77
+equilibrium = 0
+
+STEP RESUME
+----------------------------
+Step: 2001
+fnorm_average = 3.2173913
+fNonorm_average = 6.70751
+fitness normalized for norm 1 = 3.2173913
+fitness normalized for norm 2 = 6.70751
+Previous proportion norm 1 = 23.0
+Previous proportion norm 2 = 77.0
+New proportion fnorm 1 12.532213
+New proportion fnorm 2 87.46778
+Real Proportions... norm (N1) = 6 norm (N2) = 94
+equilibrium = 0
+
+STEP RESUME
+----------------------------
+Step: 2501
+fnorm_average = 2.0
+fNonorm_average = 6.7978725
+fitness normalized for norm 1 = 2.0
+fitness normalized for norm 2 = 6.7978725
+Previous proportion norm 1 = 6.0
+Previous proportion norm 2 = 94.0
+New proportion fnorm 1 1.843318
+New proportion fnorm 2 98.156685
+Real Proportions... norm () = 0 norm (N2) = 100
+equilibrium = 0
+End of simulation

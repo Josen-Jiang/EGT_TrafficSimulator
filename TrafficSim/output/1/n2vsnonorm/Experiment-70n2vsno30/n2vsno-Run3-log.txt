@@ -1,0 +1,2446 @@
+batch mode got it
+
+Starting simulation with random seed = 1432750552062
+
+STEP RESUME
+----------------------------
+Step: 501
+car = 1
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 5
+Collisions = 0
+Fitness = 5.0
+car = 2
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 5
+Collisions = 0
+Fitness = 5.0
+car = 3
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 5
+Collisions = 0
+Fitness = 5.0
+car = 4
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 5
+Collisions = 0
+Fitness = 5.0
+car = 5
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 5
+Collisions = 0
+Fitness = 5.0
+car = 6
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 6
+Succesful journeys = 3
+Collisions = 2
+Fitness = -7.0
+car = 7
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 5
+Collisions = 0
+Fitness = 5.0
+car = 8
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 3
+Collisions = 2
+Fitness = -7.0
+car = 9
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 5
+Collisions = 0
+Fitness = 5.0
+car = 10
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 4
+Collisions = 1
+Fitness = -1.0
+car = 11
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 5
+Collisions = 0
+Fitness = 5.0
+car = 12
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 5
+Collisions = 0
+Fitness = 5.0
+car = 13
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 5
+Collisions = 0
+Fitness = 5.0
+car = 14
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 4
+Collisions = 1
+Fitness = -1.0
+car = 15
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 4
+Collisions = 1
+Fitness = -1.0
+car = 16
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 5
+Collisions = 0
+Fitness = 5.0
+car = 17
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 5
+Collisions = 0
+Fitness = 5.0
+car = 18
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 5
+Collisions = 0
+Fitness = 5.0
+car = 19
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 5
+Collisions = 0
+Fitness = 5.0
+car = 20
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 5
+Collisions = 0
+Fitness = 5.0
+car = 21
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 4
+Collisions = 1
+Fitness = -1.0
+car = 22
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 4
+Collisions = 1
+Fitness = -1.0
+car = 23
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 4
+Collisions = 1
+Fitness = -1.0
+car = 24
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 5
+Collisions = 0
+Fitness = 5.0
+car = 25
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 5
+Collisions = 0
+Fitness = 5.0
+car = 26
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 4
+Collisions = 1
+Fitness = -1.0
+car = 27
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 4
+Collisions = 1
+Fitness = -1.0
+car = 28
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 3
+Collisions = 2
+Fitness = -7.0
+car = 29
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 5
+Collisions = 0
+Fitness = 5.0
+car = 30
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 5
+Collisions = 0
+Fitness = 5.0
+car = 31
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 5
+Collisions = 0
+Fitness = 5.0
+car = 32
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 5
+Collisions = 0
+Fitness = 5.0
+car = 33
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 5
+Collisions = 0
+Fitness = 5.0
+car = 34
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 5
+Collisions = 0
+Fitness = 5.0
+car = 35
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 4
+Collisions = 1
+Fitness = -1.0
+car = 36
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 5
+Collisions = 0
+Fitness = 5.0
+car = 37
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 5
+Collisions = 0
+Fitness = 5.0
+car = 38
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 5
+Collisions = 0
+Fitness = 5.0
+car = 39
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 5
+Collisions = 0
+Fitness = 5.0
+car = 40
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 5
+Collisions = 0
+Fitness = 5.0
+car = 41
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 5
+Collisions = 0
+Fitness = 5.0
+car = 42
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 5
+Collisions = 0
+Fitness = 5.0
+car = 43
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 4
+Collisions = 1
+Fitness = -1.0
+car = 44
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 5
+Collisions = 0
+Fitness = 5.0
+car = 45
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 5
+Collisions = 0
+Fitness = 5.0
+car = 46
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 5
+Collisions = 0
+Fitness = 5.0
+car = 47
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 4
+Collisions = 1
+Fitness = -1.0
+car = 48
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 5
+Collisions = 0
+Fitness = 5.0
+car = 49
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 4
+Collisions = 1
+Fitness = -1.0
+car = 50
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 5
+Collisions = 0
+Fitness = 5.0
+car = 51
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 5
+Collisions = 0
+Fitness = 5.0
+car = 52
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 3
+Collisions = 2
+Fitness = -7.0
+car = 53
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 4
+Collisions = 1
+Fitness = -1.0
+car = 54
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 4
+Collisions = 1
+Fitness = -1.0
+car = 55
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 5
+Collisions = 0
+Fitness = 5.0
+car = 56
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 5
+Collisions = 0
+Fitness = 5.0
+car = 57
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 5
+Collisions = 0
+Fitness = 5.0
+car = 58
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 5
+Collisions = 0
+Fitness = 5.0
+car = 59
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 5
+Collisions = 0
+Fitness = 5.0
+car = 60
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 5
+Collisions = 0
+Fitness = 5.0
+car = 61
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 5
+Collisions = 0
+Fitness = 5.0
+car = 62
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 5
+Collisions = 0
+Fitness = 5.0
+car = 63
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 5
+Collisions = 0
+Fitness = 5.0
+car = 64
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 5
+Collisions = 0
+Fitness = 5.0
+car = 65
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 5
+Collisions = 0
+Fitness = 5.0
+car = 66
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 4
+Collisions = 1
+Fitness = -1.0
+car = 67
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 4
+Collisions = 1
+Fitness = -1.0
+car = 68
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 5
+Collisions = 0
+Fitness = 5.0
+car = 69
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 4
+Collisions = 1
+Fitness = -1.0
+car = 70
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 5
+Collisions = 0
+Fitness = 5.0
+car = 71
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go))]
+travels = 5
+Succesful journeys = 4
+Collisions = 1
+Fitness = -1.0
+car = 72
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go))]
+travels = 5
+Succesful journeys = 4
+Collisions = 1
+Fitness = -1.0
+car = 73
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go))]
+travels = 5
+Succesful journeys = 4
+Collisions = 1
+Fitness = -1.0
+car = 74
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go))]
+travels = 5
+Succesful journeys = 3
+Collisions = 2
+Fitness = -7.0
+car = 75
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go))]
+travels = 5
+Succesful journeys = 3
+Collisions = 2
+Fitness = -7.0
+car = 76
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go))]
+travels = 5
+Succesful journeys = 3
+Collisions = 1
+Fitness = -2.0
+car = 77
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go))]
+travels = 5
+Succesful journeys = 4
+Collisions = 1
+Fitness = -1.0
+car = 78
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go))]
+travels = 5
+Succesful journeys = 3
+Collisions = 1
+Fitness = -2.0
+car = 79
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go))]
+travels = 5
+Succesful journeys = 3
+Collisions = 1
+Fitness = -2.0
+car = 80
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go))]
+travels = 5
+Succesful journeys = 3
+Collisions = 1
+Fitness = -2.0
+car = 81
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go))]
+travels = 5
+Succesful journeys = 3
+Collisions = 2
+Fitness = -7.0
+car = 82
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go))]
+travels = 5
+Succesful journeys = 2
+Collisions = 3
+Fitness = -13.0
+car = 83
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go))]
+travels = 5
+Succesful journeys = 4
+Collisions = 0
+Fitness = 4.0
+car = 84
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go))]
+travels = 5
+Succesful journeys = 4
+Collisions = 0
+Fitness = 4.0
+car = 85
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go))]
+travels = 5
+Succesful journeys = 3
+Collisions = 1
+Fitness = -2.0
+car = 86
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go))]
+travels = 5
+Succesful journeys = 3
+Collisions = 1
+Fitness = -2.0
+car = 87
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go))]
+travels = 5
+Succesful journeys = 3
+Collisions = 2
+Fitness = -7.0
+car = 88
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go))]
+travels = 5
+Succesful journeys = 2
+Collisions = 3
+Fitness = -13.0
+car = 89
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go))]
+travels = 5
+Succesful journeys = 1
+Collisions = 4
+Fitness = -19.0
+car = 90
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go))]
+travels = 5
+Succesful journeys = 2
+Collisions = 3
+Fitness = -13.0
+car = 91
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go))]
+travels = 5
+Succesful journeys = 4
+Collisions = 0
+Fitness = 4.0
+car = 92
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go))]
+travels = 5
+Succesful journeys = 3
+Collisions = 1
+Fitness = -2.0
+car = 93
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go))]
+travels = 5
+Succesful journeys = 2
+Collisions = 3
+Fitness = -13.0
+car = 94
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go))]
+travels = 5
+Succesful journeys = 2
+Collisions = 3
+Fitness = -13.0
+car = 95
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go))]
+travels = 5
+Succesful journeys = 2
+Collisions = 3
+Fitness = -13.0
+car = 96
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go))]
+travels = 4
+Succesful journeys = 4
+Collisions = 0
+Fitness = 4.0
+car = 97
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go))]
+travels = 5
+Succesful journeys = 2
+Collisions = 2
+Fitness = -8.0
+car = 98
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go))]
+travels = 5
+Succesful journeys = 2
+Collisions = 2
+Fitness = -8.0
+car = 99
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go))]
+travels = 5
+Succesful journeys = 2
+Collisions = 2
+Fitness = -8.0
+car = 100
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go))]
+travels = 5
+Succesful journeys = 2
+Collisions = 2
+Fitness = -8.0
+fnorm_average = 13.457143
+fNonorm_average = 5.3
+fitness normalized for norm 1 = 13.457143
+fitness normalized for norm 2 = 5.3
+Previous proportion norm 1 = 70.0
+Previous proportion norm 2 = 30.0
+New proportion fnorm 1 85.55858
+New proportion fnorm 2 14.441417
+random=53
+random=47
+random=26
+random=85
+random=51
+random=89
+random=17
+random=77
+random=73
+random=86
+random=97
+random=9
+random=29
+random=62
+random=35
+random=46
+random=95
+random=55
+random=90
+random=18
+random=31
+random=74
+random=7
+random=29
+random=76
+random=37
+random=28
+random=74
+random=53
+random=89
+random=66
+random=62
+random=73
+random=84
+random=68
+random=6
+random=25
+random=54
+random=77
+random=77
+random=26
+random=75
+random=71
+random=51
+random=68
+random=98
+random=70
+random=97
+random=60
+random=26
+random=53
+random=45
+random=88
+random=29
+random=7
+random=41
+random=62
+random=41
+random=59
+random=84
+random=36
+random=29
+random=26
+random=43
+random=69
+random=95
+random=83
+random=48
+random=98
+random=4
+random=95
+random=76
+random=71
+random=13
+random=27
+random=14
+random=12
+random=90
+random=39
+random=92
+random=94
+random=59
+random=58
+random=36
+random=6
+random=29
+random=61
+random=83
+random=66
+random=71
+random=1
+random=3
+random=29
+random=34
+random=29
+random=61
+random=57
+random=62
+random=50
+random=11
+Real Proportions... norm (N2) = 85 norm (No norm) = 15
+equilibrium = 0
+
+STEP RESUME
+----------------------------
+Step: 1001
+car = 1
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 5
+Collisions = 0
+Fitness = 5.0
+car = 2
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 6
+Succesful journeys = 4
+Collisions = 1
+Fitness = -1.0
+car = 3
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 5
+Collisions = 0
+Fitness = 5.0
+car = 4
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 5
+Collisions = 0
+Fitness = 5.0
+car = 5
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 5
+Collisions = 0
+Fitness = 5.0
+car = 6
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go))]
+travels = 4
+Succesful journeys = 5
+Collisions = 0
+Fitness = 5.0
+car = 7
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 5
+Collisions = 0
+Fitness = 5.0
+car = 8
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 5
+Collisions = 0
+Fitness = 5.0
+car = 9
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 5
+Collisions = 0
+Fitness = 5.0
+car = 10
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go))]
+travels = 5
+Succesful journeys = 5
+Collisions = 0
+Fitness = 5.0
+car = 11
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go))]
+travels = 6
+Succesful journeys = 3
+Collisions = 2
+Fitness = -7.0
+car = 12
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 5
+Collisions = 0
+Fitness = 5.0
+car = 13
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 5
+Collisions = 0
+Fitness = 5.0
+car = 14
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 5
+Collisions = 0
+Fitness = 5.0
+car = 15
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 5
+Collisions = 0
+Fitness = 5.0
+car = 16
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 5
+Collisions = 0
+Fitness = 5.0
+car = 17
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go))]
+travels = 5
+Succesful journeys = 4
+Collisions = 1
+Fitness = -1.0
+car = 18
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 5
+Collisions = 0
+Fitness = 5.0
+car = 19
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go))]
+travels = 5
+Succesful journeys = 3
+Collisions = 2
+Fitness = -7.0
+car = 20
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 3
+Collisions = 2
+Fitness = -7.0
+car = 21
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 5
+Collisions = 0
+Fitness = 5.0
+car = 22
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 5
+Collisions = 0
+Fitness = 5.0
+car = 23
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 5
+Collisions = 0
+Fitness = 5.0
+car = 24
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 5
+Collisions = 0
+Fitness = 5.0
+car = 25
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 5
+Collisions = 0
+Fitness = 5.0
+car = 26
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 5
+Collisions = 0
+Fitness = 5.0
+car = 27
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 5
+Collisions = 0
+Fitness = 5.0
+car = 28
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 5
+Collisions = 0
+Fitness = 5.0
+car = 29
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 5
+Collisions = 0
+Fitness = 5.0
+car = 30
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go))]
+travels = 5
+Succesful journeys = 4
+Collisions = 1
+Fitness = -1.0
+car = 31
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 4
+Collisions = 1
+Fitness = -1.0
+car = 32
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 5
+Collisions = 0
+Fitness = 5.0
+car = 33
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 5
+Collisions = 0
+Fitness = 5.0
+car = 34
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 4
+Collisions = 1
+Fitness = -1.0
+car = 35
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 5
+Collisions = 0
+Fitness = 5.0
+car = 36
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 5
+Collisions = 0
+Fitness = 5.0
+car = 37
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 5
+Collisions = 0
+Fitness = 5.0
+car = 38
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 4
+Collisions = 1
+Fitness = -1.0
+car = 39
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 5
+Collisions = 0
+Fitness = 5.0
+car = 40
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 5
+Collisions = 0
+Fitness = 5.0
+car = 41
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 4
+Collisions = 1
+Fitness = -1.0
+car = 42
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 5
+Collisions = 0
+Fitness = 5.0
+car = 43
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 5
+Collisions = 0
+Fitness = 5.0
+car = 44
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 5
+Collisions = 0
+Fitness = 5.0
+car = 45
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 5
+Collisions = 0
+Fitness = 5.0
+car = 46
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go))]
+travels = 5
+Succesful journeys = 4
+Collisions = 1
+Fitness = -1.0
+car = 47
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 5
+Collisions = 0
+Fitness = 5.0
+car = 48
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go))]
+travels = 5
+Succesful journeys = 4
+Collisions = 1
+Fitness = -1.0
+car = 49
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 5
+Collisions = 0
+Fitness = 5.0
+car = 50
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 5
+Collisions = 0
+Fitness = 5.0
+car = 51
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 5
+Collisions = 0
+Fitness = 5.0
+car = 52
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 4
+Collisions = 1
+Fitness = -1.0
+car = 53
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go))]
+travels = 5
+Succesful journeys = 3
+Collisions = 2
+Fitness = -7.0
+car = 54
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 5
+Collisions = 0
+Fitness = 5.0
+car = 55
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 5
+Collisions = 0
+Fitness = 5.0
+car = 56
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 5
+Collisions = 0
+Fitness = 5.0
+car = 57
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 5
+Collisions = 0
+Fitness = 5.0
+car = 58
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 5
+Collisions = 0
+Fitness = 5.0
+car = 59
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 4
+Collisions = 1
+Fitness = -1.0
+car = 60
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 5
+Collisions = 0
+Fitness = 5.0
+car = 61
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 5
+Collisions = 0
+Fitness = 5.0
+car = 62
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 5
+Collisions = 0
+Fitness = 5.0
+car = 63
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 4
+Collisions = 1
+Fitness = -1.0
+car = 64
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 5
+Collisions = 0
+Fitness = 5.0
+car = 65
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 5
+Collisions = 0
+Fitness = 5.0
+car = 66
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go))]
+travels = 5
+Succesful journeys = 4
+Collisions = 1
+Fitness = -1.0
+car = 67
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 5
+Collisions = 0
+Fitness = 5.0
+car = 68
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 4
+Collisions = 0
+Fitness = 4.0
+car = 69
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go))]
+travels = 5
+Succesful journeys = 4
+Collisions = 1
+Fitness = -1.0
+car = 70
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 4
+Collisions = 0
+Fitness = 4.0
+car = 71
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go))]
+travels = 5
+Succesful journeys = 0
+Collisions = 5
+Fitness = -25.0
+car = 72
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 5
+Collisions = 0
+Fitness = 5.0
+car = 73
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 5
+Collisions = 0
+Fitness = 5.0
+car = 74
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 5
+Collisions = 0
+Fitness = 5.0
+car = 75
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 5
+Collisions = 0
+Fitness = 5.0
+car = 76
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 5
+Collisions = 0
+Fitness = 5.0
+car = 77
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 4
+Collisions = 0
+Fitness = 4.0
+car = 78
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go))]
+travels = 5
+Succesful journeys = 4
+Collisions = 1
+Fitness = -1.0
+car = 79
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 5
+Collisions = 0
+Fitness = 5.0
+car = 80
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go))]
+travels = 5
+Succesful journeys = 4
+Collisions = 2
+Fitness = -6.0
+car = 81
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go))]
+travels = 5
+Succesful journeys = 0
+Collisions = 5
+Fitness = -25.0
+car = 82
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 5
+Collisions = 0
+Fitness = 5.0
+car = 83
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 5
+Collisions = 0
+Fitness = 5.0
+car = 84
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 5
+Collisions = 0
+Fitness = 5.0
+car = 85
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 5
+Collisions = 0
+Fitness = 5.0
+car = 86
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 5
+Collisions = 0
+Fitness = 5.0
+car = 87
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 5
+Collisions = 0
+Fitness = 5.0
+car = 88
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 5
+Collisions = 0
+Fitness = 5.0
+car = 89
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 5
+Collisions = 0
+Fitness = 5.0
+car = 90
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 5
+Collisions = 0
+Fitness = 5.0
+car = 91
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 4
+Succesful journeys = 5
+Collisions = 0
+Fitness = 5.0
+car = 92
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 5
+Collisions = 0
+Fitness = 5.0
+car = 93
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 4
+Collisions = 0
+Fitness = 4.0
+car = 94
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 4
+Collisions = 0
+Fitness = 4.0
+car = 95
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 4
+Collisions = 1
+Fitness = -1.0
+car = 96
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 5
+Collisions = 0
+Fitness = 5.0
+car = 97
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 5
+Collisions = 0
+Fitness = 5.0
+car = 98
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 5
+Collisions = 0
+Fitness = 5.0
+car = 99
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 4
+Collisions = 1
+Fitness = -1.0
+car = 100
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 4
+Collisions = 1
+Fitness = -1.0
+fnorm_average = 13.890197
+fNonorm_average = 4.9333334
+fitness normalized for norm 1 = 13.890197
+fitness normalized for norm 2 = 4.9333334
+Previous proportion norm 1 = 85.0
+Previous proportion norm 2 = 15.0
+New proportion fnorm 1 94.10202
+New proportion fnorm 2 5.8979807
+random=75
+random=48
+random=96
+random=44
+random=78
+random=70
+random=75
+random=24
+random=99
+random=1
+random=46
+random=17
+random=57
+random=93
+random=43
+random=14
+random=94
+random=18
+random=87
+random=76
+random=59
+random=40
+random=51
+random=26
+random=42
+random=45
+random=49
+random=13
+random=54
+random=89
+random=73
+random=25
+random=38
+random=67
+random=27
+random=25
+random=89
+random=10
+random=74
+random=38
+random=5
+random=95
+random=29
+random=48
+random=32
+random=19
+random=57
+random=31
+random=32
+random=36
+random=54
+random=85
+random=99
+random=60
+random=19
+random=94
+random=95
+random=93
+random=78
+random=8
+random=6
+random=11
+random=6
+random=14
+random=89
+random=1
+random=68
+random=10
+random=67
+random=8
+random=90
+random=84
+random=61
+random=10
+random=90
+random=58
+random=24
+random=58
+random=34
+random=22
+random=15
+random=84
+random=84
+random=92
+random=58
+random=37
+random=78
+random=66
+random=45
+random=33
+random=59
+random=37
+random=37
+random=12
+random=28
+random=61
+random=91
+random=65
+random=50
+random=56
+Real Proportions... norm (N2) = 95 norm (No norm) = 5
+equilibrium = 0
+
+STEP RESUME
+----------------------------
+Step: 1501
+car = 1
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 5
+Collisions = 0
+Fitness = 5.0
+car = 2
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 4
+Succesful journeys = 5
+Collisions = 0
+Fitness = 5.0
+car = 3
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go))]
+travels = 6
+Succesful journeys = 3
+Collisions = 2
+Fitness = -7.0
+car = 4
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 5
+Collisions = 0
+Fitness = 5.0
+car = 5
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 5
+Collisions = 0
+Fitness = 5.0
+car = 6
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 5
+Collisions = 0
+Fitness = 5.0
+car = 7
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 6
+Succesful journeys = 4
+Collisions = 1
+Fitness = -1.0
+car = 8
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 6
+Succesful journeys = 4
+Collisions = 1
+Fitness = -1.0
+car = 9
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go))]
+travels = 5
+Succesful journeys = 4
+Collisions = 1
+Fitness = -1.0
+car = 10
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 5
+Collisions = 0
+Fitness = 5.0
+car = 11
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 4
+Succesful journeys = 5
+Collisions = 0
+Fitness = 5.0
+car = 12
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 4
+Collisions = 1
+Fitness = -1.0
+car = 13
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 5
+Collisions = 0
+Fitness = 5.0
+car = 14
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 5
+Collisions = 0
+Fitness = 5.0
+car = 15
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 5
+Collisions = 0
+Fitness = 5.0
+car = 16
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 5
+Collisions = 0
+Fitness = 5.0
+car = 17
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 4
+Collisions = 1
+Fitness = -1.0
+car = 18
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 5
+Collisions = 0
+Fitness = 5.0
+car = 19
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 5
+Collisions = 0
+Fitness = 5.0
+car = 20
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 5
+Collisions = 0
+Fitness = 5.0
+car = 21
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 5
+Collisions = 0
+Fitness = 5.0
+car = 22
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 3
+Collisions = 2
+Fitness = -7.0
+car = 23
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 4
+Collisions = 1
+Fitness = -1.0
+car = 24
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 5
+Collisions = 0
+Fitness = 5.0
+car = 25
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 5
+Collisions = 0
+Fitness = 5.0
+car = 26
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 5
+Collisions = 0
+Fitness = 5.0
+car = 27
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 5
+Collisions = 0
+Fitness = 5.0
+car = 28
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 4
+Collisions = 1
+Fitness = -1.0
+car = 29
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 5
+Collisions = 0
+Fitness = 5.0
+car = 30
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 5
+Collisions = 0
+Fitness = 5.0
+car = 31
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 4
+Collisions = 1
+Fitness = -1.0
+car = 32
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 5
+Collisions = 0
+Fitness = 5.0
+car = 33
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 4
+Collisions = 1
+Fitness = -1.0
+car = 34
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 5
+Collisions = 0
+Fitness = 5.0
+car = 35
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 5
+Collisions = 0
+Fitness = 5.0
+car = 36
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 4
+Collisions = 1
+Fitness = -1.0
+car = 37
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 5
+Collisions = 0
+Fitness = 5.0
+car = 38
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 4
+Collisions = 1
+Fitness = -1.0
+car = 39
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 5
+Collisions = 0
+Fitness = 5.0
+car = 40
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 5
+Collisions = 0
+Fitness = 5.0
+car = 41
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 4
+Collisions = 1
+Fitness = -1.0
+car = 42
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go))]
+travels = 5
+Succesful journeys = 4
+Collisions = 1
+Fitness = -1.0
+car = 43
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 5
+Collisions = 0
+Fitness = 5.0
+car = 44
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 5
+Collisions = 0
+Fitness = 5.0
+car = 45
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 5
+Collisions = 0
+Fitness = 5.0
+car = 46
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 4
+Collisions = 1
+Fitness = -1.0
+car = 47
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 5
+Collisions = 0
+Fitness = 5.0
+car = 48
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 4
+Collisions = 1
+Fitness = -1.0
+car = 49
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 5
+Collisions = 0
+Fitness = 5.0
+car = 50
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 5
+Collisions = 0
+Fitness = 5.0
+car = 51
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 5
+Collisions = 0
+Fitness = 5.0
+car = 52
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 5
+Collisions = 0
+Fitness = 5.0
+car = 53
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go))]
+travels = 5
+Succesful journeys = 2
+Collisions = 3
+Fitness = -13.0
+car = 54
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 5
+Collisions = 0
+Fitness = 5.0
+car = 55
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 5
+Collisions = 0
+Fitness = 5.0
+car = 56
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 5
+Collisions = 0
+Fitness = 5.0
+car = 57
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go))]
+travels = 5
+Succesful journeys = 4
+Collisions = 1
+Fitness = -1.0
+car = 58
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 5
+Collisions = 0
+Fitness = 5.0
+car = 59
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 4
+Collisions = 1
+Fitness = -1.0
+car = 60
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 5
+Collisions = 0
+Fitness = 5.0
+car = 61
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 5
+Collisions = 0
+Fitness = 5.0
+car = 62
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 5
+Collisions = 0
+Fitness = 5.0
+car = 63
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 4
+Collisions = 1
+Fitness = -1.0
+car = 64
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 4
+Collisions = 0
+Fitness = 4.0
+car = 65
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 5
+Collisions = 0
+Fitness = 5.0
+car = 66
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 5
+Collisions = 0
+Fitness = 5.0
+car = 67
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 4
+Collisions = 1
+Fitness = -1.0
+car = 68
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 5
+Collisions = 0
+Fitness = 5.0
+car = 69
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 4
+Collisions = 1
+Fitness = -1.0
+car = 70
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 5
+Collisions = 0
+Fitness = 5.0
+car = 71
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 5
+Collisions = 0
+Fitness = 5.0
+car = 72
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 4
+Collisions = 1
+Fitness = -1.0
+car = 73
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 5
+Collisions = 0
+Fitness = 5.0
+car = 74
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 5
+Collisions = 0
+Fitness = 5.0
+car = 75
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 5
+Collisions = 0
+Fitness = 5.0
+car = 76
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 5
+Collisions = 0
+Fitness = 5.0
+car = 77
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 5
+Collisions = 0
+Fitness = 5.0
+car = 78
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 5
+Collisions = 0
+Fitness = 5.0
+car = 79
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 5
+Collisions = 0
+Fitness = 5.0
+car = 80
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 5
+Collisions = 0
+Fitness = 5.0
+car = 81
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 3
+Collisions = 2
+Fitness = -7.0
+car = 82
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 5
+Collisions = 0
+Fitness = 5.0
+car = 83
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 5
+Collisions = 0
+Fitness = 5.0
+car = 84
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 4
+Succesful journeys = 5
+Collisions = 0
+Fitness = 5.0
+car = 85
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 5
+Collisions = 0
+Fitness = 5.0
+car = 86
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 5
+Collisions = 0
+Fitness = 5.0
+car = 87
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 5
+Collisions = 0
+Fitness = 5.0
+car = 88
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 4
+Collisions = 1
+Fitness = -1.0
+car = 89
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 5
+Collisions = 0
+Fitness = 5.0
+car = 90
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 5
+Collisions = 0
+Fitness = 5.0
+car = 91
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 5
+Collisions = 0
+Fitness = 5.0
+car = 92
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 5
+Collisions = 0
+Fitness = 5.0
+car = 93
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 5
+Collisions = 0
+Fitness = 5.0
+car = 94
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 5
+Collisions = 0
+Fitness = 5.0
+car = 95
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 4
+Collisions = 1
+Fitness = -1.0
+car = 96
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 5
+Collisions = 0
+Fitness = 5.0
+car = 97
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 5
+Collisions = 0
+Fitness = 5.0
+car = 98
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 5
+Collisions = 0
+Fitness = 5.0
+car = 99
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 5
+Collisions = 0
+Fitness = 5.0
+car = 100
+_____________________________________
+Car with  norm = [N3: (l(*)&f(^)&r(*), prh(Go)), N2: (l(*)&f(*)&r(<), prh(Go))]
+travels = 5
+Succesful journeys = 5
+Collisions = 0
+Fitness = 5.0
+fnorm_average = 12.673685
+fNonorm_average = 4.6
+fitness normalized for norm 1 = 12.673685
+fitness normalized for norm 2 = 4.6
+Previous proportion norm 1 = 95.0
+Previous proportion norm 2 = 5.0
+New proportion fnorm 1 98.12551
+New proportion fnorm 2 1.8744905
+random=20
+random=14
+random=48
+random=26
+random=67
+random=80
+random=1
+random=4
+random=7
+random=49
+random=49
+random=16
+random=75
+random=36
+random=24
+random=30
+random=9
+random=91
+random=47
+random=87
+random=42
+random=98
+random=96
+random=4
+random=44
+random=37
+random=55
+random=11
+random=12
+random=93
+random=65
+random=29
+random=52
+random=18
+random=9
+random=70
+random=60
+random=61
+random=9
+random=88
+random=59
+random=48
+random=3
+random=28
+random=26
+random=21
+random=42
+random=44
+random=13
+random=86
+random=73
+random=14
+random=9
+random=88
+random=95
+random=15
+random=1
+random=54
+random=66
+random=84
+random=46
+random=11
+random=6
+random=87
+random=73
+random=60
+random=14
+random=38
+random=70
+random=8
+random=73
+random=41
+random=94
+random=42
+random=63
+random=56
+random=7
+random=4
+random=70
+random=5
+random=42
+random=33
+random=54
+random=49
+random=63
+random=95
+random=87
+random=82
+random=16
+random=85
+random=46
+random=1
+random=48
+random=44
+random=12
+random=88
+random=70
+random=67
+random=49
+random=15
+Real Proportions... norm (N2) = 100 norm () = 0
+equilibrium = 0
+End of simulation

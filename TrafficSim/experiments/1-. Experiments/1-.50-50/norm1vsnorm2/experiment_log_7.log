@@ -1,0 +1,73 @@
+
+Starting simulation with random seed = 1432122597230
+
+STEP RESUME
+----------------------------
+Step: 501
+fnorm_average = 2.46
+fNonorm_average = 1.14
+fitness normalized for norm 1 = 2.46
+fitness normalized for norm 2 = 1.14
+Previous proportion norm 1 = 50.0
+Previous proportion norm 2 = 50.0
+New proportion fnorm 1 68.333336
+New proportion fnorm 2 31.666666
+Real Proportions... norm (N1) = 75 norm (N2) = 25
+equilibrium = 0
+
+STEP RESUME
+----------------------------
+Step: 1001
+fnorm_average = 7.733333
+fNonorm_average = 3.08
+fitness normalized for norm 1 = 7.733333
+fitness normalized for norm 2 = 3.08
+Previous proportion norm 1 = 75.0
+Previous proportion norm 2 = 25.0
+New proportion fnorm 1 88.28006
+New proportion fnorm 2 11.719939
+Real Proportions... norm (N1) = 88 norm (N2) = 12
+equilibrium = 0
+
+STEP RESUME
+----------------------------
+Step: 1501
+fnorm_average = 5.522727
+fNonorm_average = 1.0
+fitness normalized for norm 1 = 5.522727
+fitness normalized for norm 2 = 1.0
+Previous proportion norm 1 = 88.0
+Previous proportion norm 2 = 12.0
+New proportion fnorm 1 97.59036
+New proportion fnorm 2 2.4096386
+Real Proportions... norm (N1) = 97 norm (N2) = 3
+equilibrium = 0
+
+STEP RESUME
+----------------------------
+Step: 2001
+fnorm_average = 4.7216496
+fNonorm_average = 1.6666666
+fitness normalized for norm 1 = 4.7216496
+fitness normalized for norm 2 = 1.6666666
+Previous proportion norm 1 = 97.0
+Previous proportion norm 2 = 3.0
+New proportion fnorm 1 98.92009
+New proportion fnorm 2 1.0799135
+Real Proportions... norm (N1) = 99 norm (N2) = 1
+equilibrium = 0
+
+STEP RESUME
+----------------------------
+Step: 2501
+fnorm_average = 18.737373
+fNonorm_average = 7.0
+fitness normalized for norm 1 = 18.737373
+fitness normalized for norm 2 = 7.0
+Previous proportion norm 1 = 99.0
+Previous proportion norm 2 = 1.0
+New proportion fnorm 1 99.62406
+New proportion fnorm 2 0.37593985
+Real Proportions... norm (N1) = 100 norm () = 0
+equilibrium = 0
+End of simulation

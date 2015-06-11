@@ -1,0 +1,73 @@
+
+Starting simulation with random seed = 1432542608614
+
+STEP RESUME
+----------------------------
+Step: 501
+fnorm_average = 17.64
+fNonorm_average = 6.88
+fitness normalized for norm 1 = 17.64
+fitness normalized for norm 2 = 6.88
+Previous proportion norm 1 = 50.0
+Previous proportion norm 2 = 50.0
+New proportion fnorm 1 71.94128
+New proportion fnorm 2 28.05873
+Real Proportions... norm (N1) = 62 norm (No norm) = 38
+equilibrium = 0
+
+STEP RESUME
+----------------------------
+Step: 1001
+fnorm_average = 8.871817
+fNonorm_average = 3.6052632
+fitness normalized for norm 1 = 8.871817
+fitness normalized for norm 2 = 3.6052632
+Previous proportion norm 1 = 62.0
+Previous proportion norm 2 = 38.0
+New proportion fnorm 1 80.059746
+New proportion fnorm 2 19.940248
+Real Proportions... norm (N1) = 86 norm (No norm) = 14
+equilibrium = 0
+
+STEP RESUME
+----------------------------
+Step: 1501
+fnorm_average = 5.853821
+fNonorm_average = 0.85714287
+fitness normalized for norm 1 = 5.853821
+fitness normalized for norm 2 = 0.85714287
+Previous proportion norm 1 = 86.0
+Previous proportion norm 2 = 14.0
+New proportion fnorm 1 97.671844
+New proportion fnorm 2 2.3281596
+Real Proportions... norm (N1) = 95 norm (No norm) = 5
+equilibrium = 0
+
+STEP RESUME
+----------------------------
+Step: 2001
+fnorm_average = 4.736842
+fNonorm_average = 0.2
+fitness normalized for norm 1 = 4.736842
+fitness normalized for norm 2 = 0.2
+Previous proportion norm 1 = 95.0
+Previous proportion norm 2 = 5.0
+New proportion fnorm 1 99.778275
+New proportion fnorm 2 0.22172949
+Real Proportions... norm (N1) = 98 norm (No norm) = 2
+equilibrium = 0
+
+STEP RESUME
+----------------------------
+Step: 2501
+fnorm_average = 4.928571
+fNonorm_average = 2.0
+fitness normalized for norm 1 = 4.928571
+fitness normalized for norm 2 = 2.0
+Previous proportion norm 1 = 98.0
+Previous proportion norm 2 = 2.0
+New proportion fnorm 1 99.17864
+New proportion fnorm 2 0.8213553
+Real Proportions... norm (N1) = 100 norm () = 0
+equilibrium = 0
+End of simulation

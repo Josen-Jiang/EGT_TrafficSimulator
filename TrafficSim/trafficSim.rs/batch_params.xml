@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><sweep runs="1">
+	<parameter name="popu_a"                   	value="50"		type="constant" constant_type="number"  />
+	<parameter name="popu_b"                   	value="50"		type="constant" constant_type="number"  />
+	<parameter name="fitnessTime"              	value="500"		type="constant" constant_type="number"  />
+	<parameter name="penalty"                  	value="5"		type="constant" constant_type="number"  />
+	<parameter name="max_ticks_without_moving" 	value="5"		type="constant" constant_type="number"  />
+	<parameter name="SimMap"                   	value="1"		type="constant" constant_type="number"  />
+	<parameter name="SimNewCarsFreq"           	value="1"		type="constant" constant_type="number"  />
+	<parameter name="SimCarsDensity"           	value="0.25"	type="constant" constant_type="number"  />
+	<parameter name="SimNumCarsToEmit"         	value="1"		type="constant" constant_type="number"  />
+	<parameter name="SimRandomSeed"            	value="0"		type="constant" constant_type="number"  />
+	<parameter name="SimMaxTicks"              	value="50000"	type="constant" constant_type="number"  />
+	<parameter name="SimGUI"                   	value="false"	type="constant" constant_type="boolean" />
+	<parameter name="SimUseSemaphores"         	value="false"	type="constant" constant_type="boolean" />
+	<parameter name="SimOnlySemaphores"        	value="false"	type="constant" constant_type="boolean" />
+	<parameter name="SimNormViolationRate"     	value="0.0"		type="constant" constant_type="number"  />
+	<parameter name="NormsGenEffThreshold"		value="0.4"		type="constant" constant_type="number"  />
+	<parameter name="NormsGenNecThreshold"      value="0.4"		type="constant" constant_type="number"  />
+	<parameter name="NormsSpecEffThreshold"     value="0.2"		type="constant" constant_type="number"  />
+	<parameter name="NormsSpecNecThreshold"     value="0.1"		type="constant" constant_type="number"  />
+	<parameter name="NormsUtilityWindowSize"    value="200"		type="constant" constant_type="number"  />
+	<parameter name="NormsDefaultUtility"       value="0.5"		type="constant" constant_type="number"  />
+	<parameter name="NumTicksToConverge"     	value="1000"	type="constant" constant_type="number"  />
+	<parameter name="NormsWeightCol"      		value="5"		type="constant" constant_type="number"  />
+	<parameter name="NormsWeightNoCol"          value="1"		type="constant" constant_type="number"  />
+	<parameter name="NormsWeightFluidTraffic"   value="2"		type="constant" constant_type="number"  />
+	<parameter name="NumExec"  					value="1"		type="constant" constant_type="number"  />
+</sweep>

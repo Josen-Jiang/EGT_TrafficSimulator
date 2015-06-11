@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<score:SContext xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:score="http://scoreabm.org/score" label="TrafficSim" ID="TrafficSim" pluralLabel="TrafficSim">
+  <attributes label="Simulator: Map" ID="SimMap" pluralLabel="Simulator: Map" sType="INTEGER" defaultValue="1"/>
+  <attributes label="Simulator: New Cars Frequency" ID="SimNewCarsFreq" pluralLabel="Simulator: New cars frequency" sType="INTEGER" defaultValue="1"/>
+  <attributes label="Simulator: Num Cars to Emit" ID="SimNumCarsToEmit" pluralLabel="Simulator: Num cars to emit" sType="INTEGER" defaultValue="3"/>
+  <attributes label="Simulator: Random Seed" ID="SimRandomSeed" pluralLabel="Simulator: Random Seeds" sType="LONG" defaultValue="0l"/>
+  <attributes label="Simulator: Max ticks" ID="SimMaxTicks" pluralLabel="Simulator: Max Ticks" sType="LONG" defaultValue="500000"/>
+  <attributes label="Simulator: GUI" ID="SimGUI" pluralLabel="Simulator: GUIs" defaultValue="true"/>
+  <attributes label="Simulator: Use Semaphores" ID="SimUseSemaphores" pluralLabel="Simulator: Use Semaphores" defaultValue="false"/>
+  <attributes label="Simulator: Only Semaphores" ID="SimOnlySemaphores" pluralLabel="Simulator: Only Semaphores" defaultValue="false"/>
+  <attributes label="Simulator: Violation Rate" ID="SimNormViolationRate" pluralLabel="Norms: Violation Rate" description="" sType="FLOAT" defaultValue="0.0"/>
+  <attributes label="IRON: Norm generalisation Eff Thr" ID="NormsGenEffThreshold" pluralLabel="IRON: Norm generalisation Eff Thr" sType="FLOAT" defaultValue="0.4"/>
+  <attributes label="IRON: Norm generalisation Nec Thr" ID="NormsGenNecThreshold" pluralLabel="IRON: Norm generalisation Nec Thr" sType="FLOAT" defaultValue="0.4"/>
+  <attributes label="IRON: Norm specialisation Eff Thr" ID="NormsSpecEffThreshold" pluralLabel="IRON: Norm generalisation Eff Thr" sType="FLOAT" defaultValue="0.2"/>
+  <attributes label="IRON: Norm specialisation Nec Thr" ID="NormsSpecNecThreshold" pluralLabel="IRON: Norm specialisation Nec Thr" sType="FLOAT" defaultValue="0.1"/>
+  <attributes label="IRON: Norms Utility Window Size" ID="NormsUtilityWindowSize" pluralLabel="IRON: Norms Utility Window Size" sType="INTEGER" defaultValue="200"/>
+  <attributes label="IRON: Norms Default Utility" ID="NormsDefaultUtility" pluralLabel="IRON: Norms Default Utility" sType="FLOAT" defaultValue="0.5"/>
+  <attributes label="IRON: Num ticks of stability to converge" ID="NumTicksToConverge" pluralLabel="IRON: Num ticks of stability to converge" sType="INTEGER" defaultValue="5000"/>
+  <attributes label="IRON: Weight Col" ID="NormsWeightCol" pluralLabel="IRON: Weight Col" sType="INTEGER" defaultValue="5"/>
+  <attributes label="IRON: Weight no col" ID="NormsWeightNoCol" pluralLabel="IRON: Weight no col" sType="INTEGER" defaultValue="1"/>
+  <attributes label="IRON: Weight fluid traffic" ID="NormsWeightFluidTraffic" pluralLabel="IRON: Weight fluid traffic" sType="INTEGER" defaultValue="2"/>
+  <attributes label="IRON: Num Exec" ID="NumExec" pluralLabel="IRON: Num Exec" sType="INTEGER" defaultValue="2"/>
+  <implementation package="trafficSim" className="TrafficContextCreator" basePath="../TrafficSim" mode="AUTO"/>
+  <agents label="Car" ID="car" pluralLabel="Cars">
+    <implementation package="trafficSim.agent" className="Car"/>
+    <styles xsi:type="score:SStyle2D" label="CarStyle2D" ID="carStyle2D">
+      <implementation className="trafficSim.style.CarStyle2D"/>
+    </styles>
+  </agents>
+  <agents label="Collision" ID="collision" pluralLabel="Collisions">
+    <implementation package="trafficSim.agent" className="Collision"/>
+    <styles xsi:type="score:SStyle2D" label="CollisionStyle2D" ID="collisionStyle2D">
+      <implementation className="trafficSim.style.CollisionStyle2D"/>
+    </styles>
+  </agents>
+  <agents label="Main" ID="Main" pluralLabel="Mains">
+    <implementation className="Main"/>
+  </agents>
+  <agents label="TrafficMetrics" ID="TrafficMetrics" pluralLabel="TrafficMetrics">
+    <implementation package="trafficSim.metrics" className="TrafficMetrics"/>
+  </agents>
+  <agents label="TrafficLights" ID="TrafficLight" pluralLabel="TrafficLights">
+    <implementation package="trafficSim.agent" className="TrafficLight"/>
+  </agents>
+  <projections xsi:type="score:SGrid" label="TrafficMap" ID="trafficMap" pluralLabel="TrafficMaps"/>
+  <valueLayers label="TrafficMapPositions" ID="trafficMapPositions" pluralLabel="TrafficMapPositionss"/>
+</score:SContext>

@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<agents>
+    <agent>
+        <quantity>50</quantity>
+        <NS>
+			<norm>
+				<name>n2</name>
+				<id>2</id>
+				<precondition>
+					<left>*</left>
+					<front>*</front>
+					<right>left</right>
+				</precondition>
+				<modality>prohibition</modality>
+				<action>go</action>
+			</norm>
+		</NS>
+    </agent>
+    <agent>
+        <quantity>50</quantity>
+		<NS>
+			<norm>
+				<name>no norm</name>
+				<id>-</id>
+				<precondition>
+					<left>-</left>
+					<front>-</front>
+					<right>-</right>
+				</precondition>
+				<modality>-</modality>
+				<action>-</action>
+			</norm>
+		</NS>
+    </agent>
+</agents>

@@ -1,0 +1,24 @@
+!SESSION 2014-01-11 17:11:08.182 -----------------------------------------------
+eclipse.buildId=M20080911-1700
+java.version=1.6.0_06
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=de_DE
+Command-line arguments:  -os win32 -ws win32 -arch x86
+
+!ENTRY org.eclipse.ui 4 4 2014-01-11 17:11:38.526
+!MESSAGE Unable to find Action Set: org.codehaus.groovy.eclipse.junit.JUnitActionSet
+
+!ENTRY org.eclipse.ui 4 4 2014-01-11 17:11:40.490
+!MESSAGE Unable to associate action set with part: org.eclipse.jdt.ui.PackageExplorer. Action set org.codehaus.groovy.eclipse.junit.JUnitActionSet not found.
+!SESSION 2014-01-11 17:12:15.926 -----------------------------------------------
+eclipse.buildId=M20080911-1700
+java.version=1.6.0_06
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=de_DE
+Command-line arguments:  -os win32 -ws win32 -arch x86 -data C:\Users\VanMoep\Desktop\TrafficSim
+
+!ENTRY org.eclipse.ui 4 4 2014-01-11 17:12:17.897
+!MESSAGE Unable to associate action set with part: org.eclipse.jdt.ui.PackageExplorer. Action set org.codehaus.groovy.eclipse.junit.JUnitActionSet not found.
+
+!ENTRY org.eclipse.ui 4 4 2014-01-11 17:12:21.212
+!MESSAGE Unable to associate action set with part: org.eclipse.jdt.ui.TypeHierarchy. Action set org.codehaus.groovy.eclipse.junit.JUnitActionSet not found.

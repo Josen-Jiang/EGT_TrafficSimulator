@@ -1,0 +1,73 @@
+
+Starting simulation with random seed = 1432542544159
+
+STEP RESUME
+----------------------------
+Step: 501
+fnorm_average = 19.285713
+fNonorm_average = 7.642857
+fitness normalized for norm 1 = 19.285713
+fitness normalized for norm 2 = 7.642857
+Previous proportion norm 1 = 30.0
+Previous proportion norm 2 = 70.0
+New proportion fnorm 1 51.95638
+New proportion fnorm 2 48.043617
+Real Proportions... norm (N1) = 44 norm (No norm) = 56
+equilibrium = 0
+
+STEP RESUME
+----------------------------
+Step: 1001
+fnorm_average = 6.1298704
+fNonorm_average = 2.1785715
+fitness normalized for norm 1 = 6.1298704
+fitness normalized for norm 2 = 2.1785715
+Previous proportion norm 1 = 44.0
+Previous proportion norm 2 = 56.0
+New proportion fnorm 1 68.85485
+New proportion fnorm 2 31.14515
+Real Proportions... norm (N1) = 64 norm (No norm) = 36
+equilibrium = 0
+
+STEP RESUME
+----------------------------
+Step: 1501
+fnorm_average = 5.5486107
+fNonorm_average = 1.3055556
+fitness normalized for norm 1 = 5.5486107
+fitness normalized for norm 2 = 1.3055556
+Previous proportion norm 1 = 64.0
+Previous proportion norm 2 = 36.0
+New proportion fnorm 1 88.31169
+New proportion fnorm 2 11.688313
+Real Proportions... norm (N1) = 91 norm (No norm) = 9
+equilibrium = 0
+
+STEP RESUME
+----------------------------
+Step: 2001
+fnorm_average = 10.32967
+fNonorm_average = 3.0
+fitness normalized for norm 1 = 10.32967
+fitness normalized for norm 2 = 3.0
+Previous proportion norm 1 = 91.0
+Previous proportion norm 2 = 9.0
+New proportion fnorm 1 97.20786
+New proportion fnorm 2 2.792141
+Real Proportions... norm (N1) = 98 norm (No norm) = 2
+equilibrium = 0
+
+STEP RESUME
+----------------------------
+Step: 2501
+fnorm_average = 4.928571
+fNonorm_average = 2.5
+fitness normalized for norm 1 = 4.928571
+fitness normalized for norm 2 = 2.5
+Previous proportion norm 1 = 98.0
+Previous proportion norm 2 = 2.0
+New proportion fnorm 1 98.97541
+New proportion fnorm 2 1.0245903
+Real Proportions... norm (N1) = 100 norm () = 0
+equilibrium = 0
+End of simulation

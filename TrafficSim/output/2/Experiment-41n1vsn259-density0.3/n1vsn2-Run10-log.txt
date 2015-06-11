@@ -1,0 +1,79 @@
+batch mode got it
+
+Starting simulation with random seed = 1433345362943
+
+STEP RESUME
+----------------------------
+Step: 501
+Density: 22.802
+fnorm_average = 9.479536
+fNonorm_average = 4.898305
+fitness normalized for norm 1 = 9.479536
+fitness normalized for norm 2 = 4.898305
+Previous proportion norm 1 = 41.0
+Previous proportion norm 2 = 59.0
+New proportion fnorm 1 57.353306
+New proportion fnorm 2 42.64669
+Real Proportions... norm (N1) = 64 norm (N2) = 36
+equilibrium = 0
+
+STEP RESUME
+----------------------------
+Step: 1001
+Density: 22.866
+fnorm_average = 9.00868
+fNonorm_average = 6.2777777
+fitness normalized for norm 1 = 9.00868
+fitness normalized for norm 2 = 6.2777777
+Previous proportion norm 1 = 64.0
+Previous proportion norm 2 = 36.0
+New proportion fnorm 1 71.83995
+New proportion fnorm 2 28.160044
+Real Proportions... norm (N1) = 77 norm (N2) = 23
+equilibrium = 0
+
+STEP RESUME
+----------------------------
+Step: 1501
+Density: 23.188
+fnorm_average = 12.590628
+fNonorm_average = 6.2173915
+fitness normalized for norm 1 = 12.590628
+fitness normalized for norm 2 = 6.2173915
+Previous proportion norm 1 = 77.0
+Previous proportion norm 2 = 23.0
+New proportion fnorm 1 87.14582
+New proportion fnorm 2 12.854184
+Real Proportions... norm (N1) = 91 norm (N2) = 9
+equilibrium = 0
+
+STEP RESUME
+----------------------------
+Step: 2001
+Density: 23.34
+fnorm_average = 16.167276
+fNonorm_average = 6.111111
+fitness normalized for norm 1 = 16.167276
+fitness normalized for norm 2 = 6.111111
+Previous proportion norm 1 = 91.0
+Previous proportion norm 2 = 9.0
+New proportion fnorm 1 96.39633
+New proportion fnorm 2 3.6036692
+Real Proportions... norm (N1) = 99 norm (N2) = 1
+equilibrium = 0
+
+STEP RESUME
+----------------------------
+Step: 2501
+Density: 23.45
+fnorm_average = 27.727272
+fNonorm_average = 11.0
+fitness normalized for norm 1 = 27.727272
+fitness normalized for norm 2 = 11.0
+Previous proportion norm 1 = 99.0
+Previous proportion norm 2 = 1.0
+New proportion fnorm 1 99.60087
+New proportion fnorm 2 0.39912918
+Real Proportions... norm (N1) = 100 norm () = 0
+equilibrium = 0
+End of simulation

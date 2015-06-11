@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<parameters type="valuesOnly">
+					<parameter name="NormWeightCol" value="5"/>
+				<parameter name="NormScoreWindowSize" value="500"/>
+				<parameter name="randomSeed" value="674950010"/>
+				<parameter name="SimMaxCars" value="9"/>
+				<parameter name="SimRandomSeed" value="0"/>
+				<parameter name="NormMaxCyclesNoApply" value="50000"/>
+				<parameter name="SolsOnlyForCollided" value="true"/>
+				<parameter name="NormExclude" value="true"/>
+				<parameter name="NormMinScore" value="0.1"/>
+				<parameter name="NormIncOwnState" value="false"/>
+				<parameter name="SimModeID" value="1"/>
+				<parameter name="SimVariableVelocity" value="false"/>
+				<parameter name="NormWeightFluidTraffic" value="4"/>
+				<parameter name="NormWeightNoCol" value="1"/>
+				<parameter name="NormViolatingProb" value="0.25"/>
+				<parameter name="SimMap" value="1"/>
+				<parameter name="NormMinExperience" value="10"/>
+				<parameter name="NormUseVelocity" value="false"/>
+		</parameters>
+
+

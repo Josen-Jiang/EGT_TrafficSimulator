@@ -1,0 +1,86 @@
+<repast.simphony.chart.engine.DefaultXYChartOutputterDescriptor>
+  <name>Traffic statistics</name>
+  <outputterFactory class="repast.simphony.chart.wizard.XYChartMappingsStep$XYFactory"/>
+  <dataSetHandler>
+    <dataSets>
+      <string>Traffic data set</string>
+    </dataSets>
+  </dataSetHandler>
+  <streamHandler>
+    <columns/>
+  </streamHandler>
+  <isBatchAction>false</isBatchAction>
+  <dataSetId class="string">Traffic data set</dataSetId>
+  <showLegend>true</showLegend>
+  <multipleSeries>false</multipleSeries>
+  <xColumnName>Tick</xColumnName>
+  <autoRangeX>false</autoRangeX>
+  <autoRangeY>false</autoRangeY>
+  <visibleXRange>2000.0</visibleXRange>
+  <visibleYRange>0.0</visibleYRange>
+  <xMin>0.0</xMin>
+  <xMax>0.0</xMax>
+  <yMin>0.0</yMin>
+  <yMax>0.0</yMax>
+  <maxHistory>2000</maxHistory>
+  <seriesType>LINE</seriesType>
+  <series>
+  
+  <!--
+    <repast.simphony.chart.Series>
+      <seriesID>NumberOfCasesName</seriesID>
+      <valueColumn>NumberOfCases</valueColumn>
+      <hashCode>846472444</hashCode>
+      <proxy>false</proxy>
+    </repast.simphony.chart.Series>
+  
+    <repast.simphony.chart.Series>
+      <seriesID>NumberOfSolutionsName</seriesID>
+      <valueColumn>NumberOfSolutions</valueColumn>
+      <hashCode>846472444</hashCode>
+      <proxy>false</proxy>
+    </repast.simphony.chart.Series>
+  
+    <repast.simphony.chart.Series>
+      <seriesID>NumberOfNormsName</seriesID>
+      <valueColumn>NumberOfNorms</valueColumn>
+      <hashCode>846472444</hashCode>
+      <proxy>false</proxy>
+    </repast.simphony.chart.Series>
+  -->    
+    <repast.simphony.chart.Series>
+      <seriesID>NumberOfActiveNormsName</seriesID>
+      <valueColumn>NumberOfActiveNorms</valueColumn>
+      <hashCode>846472444</hashCode>
+      <proxy>false</proxy>
+    </repast.simphony.chart.Series>
+        
+    <repast.simphony.chart.Series>
+      <seriesID>AvgNoViolCollisionsName</seriesID>
+      <valueColumn>AvgNoViolCollisions</valueColumn>
+      <hashCode>846472434</hashCode>
+      <proxy>false</proxy>
+    </repast.simphony.chart.Series>
+<!--
+    <repast.simphony.chart.Series>
+      <seriesID>NumberOfCarsInScenarioName</seriesID>
+      <valueColumn>NumberOfCarsInScenario</valueColumn>
+      <hashCode>846472434</hashCode>
+      <proxy>false</proxy>
+    </repast.simphony.chart.Series>
+-->
+	<repast.simphony.chart.Series>
+      <seriesID>CarsThroughputName</seriesID>
+      <valueColumn>CarsThroughput</valueColumn>
+      <hashCode>846472434</hashCode>
+      <proxy>false</proxy>
+    </repast.simphony.chart.Series>
+    
+    <repast.simphony.chart.Series>
+      <seriesID>NumberOfStopsName</seriesID>
+      <valueColumn>NumberOfStops</valueColumn>
+      <hashCode>846472434</hashCode>
+      <proxy>false</proxy>
+    </repast.simphony.chart.Series>
+  </series>
+</repast.simphony.chart.engine.DefaultXYChartOutputterDescriptor>

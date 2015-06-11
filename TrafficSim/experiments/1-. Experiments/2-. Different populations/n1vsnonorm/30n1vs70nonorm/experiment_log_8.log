@@ -1,0 +1,73 @@
+
+Starting simulation with random seed = 1432541624016
+
+STEP RESUME
+----------------------------
+Step: 501
+fnorm_average = 14.771429
+fNonorm_average = 5.5857143
+fitness normalized for norm 1 = 14.771429
+fitness normalized for norm 2 = 5.5857143
+Previous proportion norm 1 = 30.0
+Previous proportion norm 2 = 70.0
+New proportion fnorm 1 53.125538
+New proportion fnorm 2 46.874462
+Real Proportions... norm (N1) = 60 norm (No norm) = 40
+equilibrium = 0
+
+STEP RESUME
+----------------------------
+Step: 1001
+fnorm_average = 6.7
+fNonorm_average = 2.175
+fitness normalized for norm 1 = 6.7
+fitness normalized for norm 2 = 2.175
+Previous proportion norm 1 = 60.0
+Previous proportion norm 2 = 40.0
+New proportion fnorm 1 82.208595
+New proportion fnorm 2 17.79141
+Real Proportions... norm (N1) = 76 norm (No norm) = 24
+equilibrium = 0
+
+STEP RESUME
+----------------------------
+Step: 1501
+fnorm_average = 7.9692984
+fNonorm_average = 2.4583333
+fitness normalized for norm 1 = 7.9692984
+fitness normalized for norm 2 = 2.4583333
+Previous proportion norm 1 = 76.0
+Previous proportion norm 2 = 24.0
+New proportion fnorm 1 91.123375
+New proportion fnorm 2 8.87663
+Real Proportions... norm (N1) = 93 norm (No norm) = 7
+equilibrium = 0
+
+STEP RESUME
+----------------------------
+Step: 2001
+fnorm_average = 4.7526884
+fNonorm_average = 1.5714285
+fitness normalized for norm 1 = 4.7526884
+fitness normalized for norm 2 = 1.5714285
+Previous proportion norm 1 = 93.0
+Previous proportion norm 2 = 7.0
+New proportion fnorm 1 97.57174
+New proportion fnorm 2 2.428256
+Real Proportions... norm (N1) = 99 norm (No norm) = 1
+equilibrium = 0
+
+STEP RESUME
+----------------------------
+Step: 2501
+fnorm_average = 5.0
+fNonorm_average = 5.0
+fitness normalized for norm 1 = 5.0
+fitness normalized for norm 2 = 5.0
+Previous proportion norm 1 = 99.0
+Previous proportion norm 2 = 1.0
+New proportion fnorm 1 99.0
+New proportion fnorm 2 1.0
+Real Proportions... norm (N1) = 100 norm () = 0
+equilibrium = 0
+End of simulation

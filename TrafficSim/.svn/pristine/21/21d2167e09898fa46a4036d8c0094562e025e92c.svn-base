@@ -1,0 +1,328 @@
+<repast.simphony.data.engine.DefaultDataGathererDescriptor>
+  <name>Traffic data set</name>
+  <dataSetId class="string">Traffic data set</dataSetId>
+  
+  <scheduleParameters>
+    <start>1.0</start>
+    <interval>2.0</interval>
+    <priority>-Infinity</priority>
+    <duration>-1.0</duration>
+    <frequency>REPEAT</frequency>
+  </scheduleParameters>
+  
+  <dataMappingContainer class="repast.simphony.data.logging.gather.DefaultDataMappingContainer">
+    <nameMappingTable>
+    
+      <!-- Number of cases --> 
+      <entry>
+        <string>NumberOfCasesName</string>
+        <repast.simphony.data.logging.gather.MethodMapping>
+          <method>
+            <class>trafficSim.metrics.TrafficMetrics</class>
+            <name>getNumberOfCasesName</name>
+            <parameter-types/>
+          </method>
+        </repast.simphony.data.logging.gather.MethodMapping>
+      </entry>
+      <entry>
+        <string>NumberOfCases</string>
+        <repast.simphony.data.logging.gather.MethodMapping>
+          <method>
+            <class>trafficSim.metrics.TrafficMetrics</class>
+            <name>getNumberOfCases</name>
+            <parameter-types/>
+          </method>
+        </repast.simphony.data.logging.gather.MethodMapping>
+      </entry>
+      
+      <!-- Number of solutions -->
+      <entry>
+        <string>NumberOfSolutionsName</string>
+        <repast.simphony.data.logging.gather.MethodMapping>
+          <method>
+            <class>trafficSim.metrics.TrafficMetrics</class>
+            <name>getNumberOfSolutionsName</name>
+            <parameter-types/>
+          </method>
+        </repast.simphony.data.logging.gather.MethodMapping>
+      </entry>
+      <entry>
+        <string>NumberOfSolutions</string>
+        <repast.simphony.data.logging.gather.MethodMapping>
+          <method>
+            <class>trafficSim.metrics.TrafficMetrics</class>
+            <name>getNumberOfSolutions</name>
+            <parameter-types/>
+          </method>
+        </repast.simphony.data.logging.gather.MethodMapping>
+      </entry>
+      
+      <!-- Number of norms -->
+      <entry>
+        <string>NumberOfNormsName</string>
+        <repast.simphony.data.logging.gather.MethodMapping>
+          <method>
+            <class>trafficSim.metrics.TrafficMetrics</class>
+            <name>getNumberOfNormsName</name>
+            <parameter-types/>
+          </method>
+        </repast.simphony.data.logging.gather.MethodMapping>
+      </entry>  
+      <entry>
+        <string>NumberOfNorms</string>
+        <repast.simphony.data.logging.gather.MethodMapping>
+          <method>
+            <class>trafficSim.metrics.TrafficMetrics</class>
+            <name>getNumberOfNorms</name>
+            <parameter-types/>
+          </method>
+        </repast.simphony.data.logging.gather.MethodMapping>
+      </entry>  
+      
+      <!-- Number of active norms -->
+      <entry>
+        <string>NumberOfActiveNormsName</string>
+        <repast.simphony.data.logging.gather.MethodMapping>
+          <method>
+            <class>trafficSim.metrics.TrafficMetrics</class>
+            <name>getNumberOfActiveNormsName</name>
+            <parameter-types/>
+          </method>
+        </repast.simphony.data.logging.gather.MethodMapping>
+      </entry>  
+      <entry>
+        <string>NumberOfActiveNorms</string>
+        <repast.simphony.data.logging.gather.MethodMapping>
+          <method>
+            <class>trafficSim.metrics.TrafficMetrics</class>
+            <name>getNumberOfActiveNorms</name>
+            <parameter-types/>
+          </method>
+        </repast.simphony.data.logging.gather.MethodMapping>
+      </entry>
+      
+      <!-- Average of collisions -->
+      <entry>
+        <string>AvgTotalCollisionsName</string>
+        <repast.simphony.data.logging.gather.MethodMapping>
+          <method>
+            <class>trafficSim.metrics.TrafficMetrics</class>
+            <name>getAvgTotalCollisionsName</name>
+            <parameter-types/>
+          </method>
+        </repast.simphony.data.logging.gather.MethodMapping>
+      </entry>
+      <entry>
+        <string>AvgTotalCollisions</string>
+        <repast.simphony.data.logging.gather.MethodMapping>
+          <method>
+            <class>trafficSim.metrics.TrafficMetrics</class>
+            <name>getAvgTotalCollisions</name>
+            <parameter-types/>
+          </method>
+        </repast.simphony.data.logging.gather.MethodMapping>
+      </entry>
+      
+      <!-- Average of no violation collisions -->
+      <entry>
+        <string>AvgNoViolCollisionsName</string>
+        <repast.simphony.data.logging.gather.MethodMapping>
+          <method>
+            <class>trafficSim.metrics.TrafficMetrics</class>
+            <name>getAvgNoViolCollisionsName</name>
+            <parameter-types/>
+          </method>
+        </repast.simphony.data.logging.gather.MethodMapping>
+      </entry>
+      <entry>
+        <string>AvgNoViolCollisions</string>
+        <repast.simphony.data.logging.gather.MethodMapping>
+          <method>
+            <class>trafficSim.metrics.TrafficMetrics</class>
+            <name>getAvgNoViolCollisions</name>
+            <parameter-types/>
+          </method>
+        </repast.simphony.data.logging.gather.MethodMapping>
+      </entry>
+
+      <!-- Number of cars currently in the scenario -->
+      <entry>
+        <string>NumberOfCarsInScenarioName</string>
+        <repast.simphony.data.logging.gather.MethodMapping>
+          <method>
+            <class>trafficSim.metrics.TrafficMetrics</class>
+            <name>getNumberOfCarsInScenarioName</name>
+            <parameter-types/>
+          </method>
+        </repast.simphony.data.logging.gather.MethodMapping>
+      </entry>
+      <entry>
+        <string>NumberOfCarsInScenario</string>
+        <repast.simphony.data.logging.gather.MethodMapping>
+          <method>
+            <class>trafficSim.metrics.TrafficMetrics</class>
+            <name>getNumberOfCarsInScenario</name>
+            <parameter-types/>
+          </method>
+        </repast.simphony.data.logging.gather.MethodMapping>
+      </entry>
+      
+      <!-- Throughput of cars -->
+      <entry>
+        <string>CarsThroughputName</string>
+        <repast.simphony.data.logging.gather.MethodMapping>
+          <method>
+            <class>trafficSim.metrics.TrafficMetrics</class>
+            <name>getCarsThroughputName</name>
+            <parameter-types/>
+          </method>
+        </repast.simphony.data.logging.gather.MethodMapping>
+      </entry>
+      <entry>
+        <string>CarsThroughput</string>
+        <repast.simphony.data.logging.gather.MethodMapping>
+          <method>
+            <class>trafficSim.metrics.TrafficMetrics</class>
+            <name>getCarsThroughput</name>
+            <parameter-types/>
+          </method>
+        </repast.simphony.data.logging.gather.MethodMapping>
+      </entry>
+
+      <!-- Number of stops -->
+      <entry>
+        <string>NumberOfStopsName</string>
+        <repast.simphony.data.logging.gather.MethodMapping>
+          <method>
+            <class>trafficSim.metrics.TrafficMetrics</class>
+            <name>getNumberOfStopsName</name>
+            <parameter-types/>
+          </method>
+        </repast.simphony.data.logging.gather.MethodMapping>
+      </entry>
+      <entry>
+        <string>NumberOfStops</string>
+        <repast.simphony.data.logging.gather.MethodMapping>
+          <method>
+            <class>trafficSim.metrics.TrafficMetrics</class>
+            <name>getNumberOfStops</name>
+            <parameter-types/>
+          </method>
+        </repast.simphony.data.logging.gather.MethodMapping>
+      </entry>
+
+      <!-- Tick -->
+      <entry>
+        <string>Tick</string>
+        <repast.simphony.data.logging.gather.DefaultTimeDataMapping/>
+      </entry>
+    </nameMappingTable>
+    
+    <mappingNameTable>
+      
+      <!-- Number of cases -->
+      <entry>
+        <repast.simphony.data.logging.gather.MethodMapping reference="../../../nameMappingTable/entry/repast.simphony.data.logging.gather.MethodMapping"/>
+        <string>NumberOfCasesName</string>
+      </entry>
+      <entry>
+        <repast.simphony.data.logging.gather.MethodMapping reference="../../../nameMappingTable/entry[2]/repast.simphony.data.logging.gather.MethodMapping"/>
+        <string>NumberOfCases</string>
+      </entry>
+      
+      <!-- Number of solutions -->
+      <entry>
+        <repast.simphony.data.logging.gather.MethodMapping reference="../../../nameMappingTable/entry[3]/repast.simphony.data.logging.gather.MethodMapping"/>
+        <string>NumberOfSolutionsName</string>
+      </entry>
+      <entry>
+        <repast.simphony.data.logging.gather.MethodMapping reference="../../../nameMappingTable/entry[4]/repast.simphony.data.logging.gather.MethodMapping"/>
+        <string>NomberOfSolutions</string>
+      </entry>
+      
+      <!-- Number of norms -->
+      <entry>
+        <repast.simphony.data.logging.gather.MethodMapping reference="../../../nameMappingTable/entry[5]/repast.simphony.data.logging.gather.MethodMapping"/>
+        <string>NumberOfNormsName</string>
+      </entry>
+      <entry>
+        <repast.simphony.data.logging.gather.MethodMapping reference="../../../nameMappingTable/entry[6]/repast.simphony.data.logging.gather.MethodMapping"/>
+        <string>NumberOfNorms</string>
+      </entry>
+      
+      <!-- Number of active norms -->
+      <entry>
+        <repast.simphony.data.logging.gather.MethodMapping reference="../../../nameMappingTable/entry[7]/repast.simphony.data.logging.gather.MethodMapping"/>
+        <string>NumberOfActiveNormsName</string>
+      </entry>
+      <entry>
+        <repast.simphony.data.logging.gather.MethodMapping reference="../../../nameMappingTable/entry[8]/repast.simphony.data.logging.gather.MethodMapping"/>
+        <string>NumberOfActiveNorms</string>
+      </entry>
+      
+      <!-- Average collisions -->
+      <entry>
+        <repast.simphony.data.logging.gather.MethodMapping reference="../../../nameMappingTable/entry[9]/repast.simphony.data.logging.gather.MethodMapping"/>
+        <string>AvgTotalCollisionsName</string>
+      </entry>
+      <entry>
+        <repast.simphony.data.logging.gather.MethodMapping reference="../../../nameMappingTable/entry[10]/repast.simphony.data.logging.gather.MethodMapping"/>
+        <string>AvgTotalCollisions</string>
+      </entry>
+      
+      <!-- Average no violation collisions -->
+      <entry>
+        <repast.simphony.data.logging.gather.MethodMapping reference="../../../nameMappingTable/entry[11]/repast.simphony.data.logging.gather.MethodMapping"/>
+        <string>AvfNoViolCollisionsName</string>
+      </entry> 
+      <entry>
+        <repast.simphony.data.logging.gather.MethodMapping reference="../../../nameMappingTable/entry[12]/repast.simphony.data.logging.gather.MethodMapping"/>
+        <string>AvfNoViolCollisions</string>
+      </entry>
+      
+      <!-- Number of cars currently in the scenario -->
+      <entry>
+        <repast.simphony.data.logging.gather.MethodMapping reference="../../../nameMappingTable/entry[13]/repast.simphony.data.logging.gather.MethodMapping"/>
+        <string>NumberOfCarsInScenarioName</string>
+      </entry> 
+      <entry>
+        <repast.simphony.data.logging.gather.MethodMapping reference="../../../nameMappingTable/entry[14]/repast.simphony.data.logging.gather.MethodMapping"/>
+        <string>NumberOfCarsInScenario</string>
+      </entry>
+      
+      <!-- Cars throughput -->
+      <entry>
+        <repast.simphony.data.logging.gather.MethodMapping reference="../../../nameMappingTable/entry[15]/repast.simphony.data.logging.gather.MethodMapping"/>
+        <string>CarsThroughputName</string>
+      </entry> 
+      <entry>
+        <repast.simphony.data.logging.gather.MethodMapping reference="../../../nameMappingTable/entry[16]/repast.simphony.data.logging.gather.MethodMapping"/>
+        <string>CarsThroughput</string>
+      </entry>
+      
+      <!-- Number of stops -->
+      <entry>
+        <repast.simphony.data.logging.gather.MethodMapping reference="../../../nameMappingTable/entry[17]/repast.simphony.data.logging.gather.MethodMapping"/>
+        <string>NumberOfStopsName</string>
+      </entry> 
+      <entry>
+        <repast.simphony.data.logging.gather.MethodMapping reference="../../../nameMappingTable/entry[18]/repast.simphony.data.logging.gather.MethodMapping"/>
+        <string>NumberOfStops</string>
+      </entry>
+      
+      <!-- Tick -->
+      <entry>
+        <repast.simphony.data.logging.gather.DefaultTimeDataMapping reference="../../../nameMappingTable/entry[19]/repast.simphony.data.logging.gather.DefaultTimeDataMapping"/>
+        <string>Tick</string>
+      </entry>
+      
+    </mappingNameTable>
+  </dataMappingContainer>
+  <aggregateContainer class="repast.simphony.data.logging.gather.DefaultAggregateDataMappingContainer">
+    <nameMappingTable/>
+    <mappingNameTable/>
+    <alternatedNameTable/>
+    <nameAlternatedTable/>
+  </aggregateContainer>
+  <agentClass>trafficSim.metrics.TrafficMetrics</agentClass>
+</repast.simphony.data.engine.DefaultDataGathererDescriptor>

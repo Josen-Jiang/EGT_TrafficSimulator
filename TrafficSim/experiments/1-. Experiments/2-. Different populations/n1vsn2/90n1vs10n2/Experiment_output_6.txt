@@ -1,0 +1,4 @@
+Tick; Norm proportion; No norm proportion; avg_col_norm; avg_col_nonorm; avg_suc_norm; avg_suc_nonorm; num_norm; num_nonorm
+501.0;99.1228; 0.8771929; 0.1; 0.7; 4.7222223; 3.1; 98; 2
+1001.0;99.604744; 0.39525694; 0.041836735; 1.35; 4.966553; 5.05; 99; 1
+1501.0;99.854225; 0.1457726; 0.010523603; 2.35; 5.019864; 9.05; 100; 0

@@ -1,0 +1,73 @@
+
+Starting simulation with random seed = 1432541683195
+
+STEP RESUME
+----------------------------
+Step: 501
+fnorm_average = 14.879999
+fNonorm_average = 5.66
+fitness normalized for norm 1 = 14.879999
+fitness normalized for norm 2 = 5.66
+Previous proportion norm 1 = 50.0
+Previous proportion norm 2 = 50.0
+New proportion fnorm 1 72.444
+New proportion fnorm 2 27.555986
+Real Proportions... norm (N1) = 81 norm (No norm) = 19
+equilibrium = 0
+
+STEP RESUME
+----------------------------
+Step: 1001
+fnorm_average = 7.157895
+fNonorm_average = 1.5789474
+fitness normalized for norm 1 = 7.157895
+fitness normalized for norm 2 = 1.5789474
+Previous proportion norm 1 = 81.0
+Previous proportion norm 2 = 19.0
+New proportion fnorm 1 95.08027
+New proportion fnorm 2 4.9197307
+Real Proportions... norm (N1) = 96 norm (No norm) = 4
+equilibrium = 0
+
+STEP RESUME
+----------------------------
+Step: 1501
+fnorm_average = 9.677084
+fNonorm_average = 2.5
+fitness normalized for norm 1 = 9.677084
+fitness normalized for norm 2 = 2.5
+Previous proportion norm 1 = 96.0
+Previous proportion norm 2 = 4.0
+New proportion fnorm 1 98.935036
+New proportion fnorm 2 1.0649626
+Real Proportions... norm (N1) = 99 norm (No norm) = 1
+equilibrium = 0
+
+STEP RESUME
+----------------------------
+Step: 2001
+fnorm_average = 4.989899
+fNonorm_average = 5.0
+fitness normalized for norm 1 = 4.989899
+fitness normalized for norm 2 = 5.0
+Previous proportion norm 1 = 99.0
+Previous proportion norm 2 = 1.0
+New proportion fnorm 1 98.998
+New proportion fnorm 2 1.0020039
+Real Proportions... norm (N1) = 99 norm (No norm) = 1
+equilibrium = 1
+
+STEP RESUME
+----------------------------
+Step: 2501
+fnorm_average = 5.010101
+fNonorm_average = 5.0
+fitness normalized for norm 1 = 5.010101
+fitness normalized for norm 2 = 5.0
+Previous proportion norm 1 = 99.0
+Previous proportion norm 2 = 1.0
+New proportion fnorm 1 99.002
+New proportion fnorm 2 0.9980041
+Real Proportions... norm (N1) = 100 norm () = 0
+equilibrium = 0
+End of simulation

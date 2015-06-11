@@ -1,0 +1,10 @@
+
+--Esta línea y las que están debajo serán ignoradas--
+
+M    src/trafficNorms/institution/TrafficInstitution.java
+M    src/trafficNorms/Main.java
+M    src/trafficNorms/car/CarReasoner.java
+M    src/trafficNorms/car/Car.java
+M    src/trafficNorms/car/scope/CarScope.java
+M    src/trafficNorms/metrics/MetricsManager.java
+M    src/trafficNorms/map/CarMap.java

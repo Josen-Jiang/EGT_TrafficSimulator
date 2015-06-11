@@ -1,0 +1,157 @@
+
+Starting simulation with random seed = 1432122613103
+
+STEP RESUME
+----------------------------
+Step: 501
+fnorm_average = 2.96
+fNonorm_average = 1.38
+fitness normalized for norm 1 = 2.96
+fitness normalized for norm 2 = 1.38
+Previous proportion norm 1 = 50.0
+Previous proportion norm 2 = 50.0
+New proportion fnorm 1 68.20277
+New proportion fnorm 2 31.797235
+Real Proportions... norm (N1) = 72 norm (N2) = 28
+equilibrium = 0
+
+STEP RESUME
+----------------------------
+Step: 1001
+fnorm_average = 6.134921
+fNonorm_average = 2.4285715
+fitness normalized for norm 1 = 6.134921
+fitness normalized for norm 2 = 2.4285715
+Previous proportion norm 1 = 72.0
+Previous proportion norm 2 = 28.0
+New proportion fnorm 1 86.659195
+New proportion fnorm 2 13.340805
+Real Proportions... norm (N1) = 82 norm (N2) = 18
+equilibrium = 0
+
+STEP RESUME
+----------------------------
+Step: 1501
+fnorm_average = 4.723577
+fNonorm_average = 0.6666667
+fitness normalized for norm 1 = 4.723577
+fitness normalized for norm 2 = 0.6666667
+Previous proportion norm 1 = 82.0
+Previous proportion norm 2 = 18.0
+New proportion fnorm 1 96.99499
+New proportion fnorm 2 3.0050087
+Real Proportions... norm (N1) = 97 norm (N2) = 3
+equilibrium = 0
+
+STEP RESUME
+----------------------------
+Step: 2001
+fnorm_average = 15.316153
+fNonorm_average = 5.3333335
+fitness normalized for norm 1 = 15.316153
+fitness normalized for norm 2 = 5.3333335
+Previous proportion norm 1 = 97.0
+Previous proportion norm 2 = 3.0
+New proportion fnorm 1 98.93452
+New proportion fnorm 2 1.0654827
+Real Proportions... norm (N1) = 96 norm (N2) = 4
+equilibrium = 0
+
+STEP RESUME
+----------------------------
+Step: 2501
+fnorm_average = 4.65625
+fNonorm_average = 0.25
+fitness normalized for norm 1 = 4.65625
+fitness normalized for norm 2 = 0.25
+Previous proportion norm 1 = 96.0
+Previous proportion norm 2 = 4.0
+New proportion fnorm 1 99.77679
+New proportion fnorm 2 0.2232143
+Real Proportions... norm (N1) = 98 norm (N2) = 2
+equilibrium = 0
+
+STEP RESUME
+----------------------------
+Step: 3001
+fnorm_average = 13.67347
+fNonorm_average = 4.5
+fitness normalized for norm 1 = 13.67347
+fitness normalized for norm 2 = 4.5
+Previous proportion norm 1 = 98.0
+Previous proportion norm 2 = 2.0
+New proportion fnorm 1 99.33284
+New proportion fnorm 2 0.66716087
+Real Proportions... norm (N1) = 98 norm (N2) = 2
+equilibrium = 1
+
+STEP RESUME
+----------------------------
+Step: 3501
+fnorm_average = 6.867347
+fNonorm_average = 1.0
+fitness normalized for norm 1 = 6.867347
+fitness normalized for norm 2 = 1.0
+Previous proportion norm 1 = 98.0
+Previous proportion norm 2 = 2.0
+New proportion fnorm 1 99.703705
+New proportion fnorm 2 0.2962963
+Real Proportions... norm (N1) = 99 norm (N2) = 1
+equilibrium = 0
+
+STEP RESUME
+----------------------------
+Step: 4001
+fnorm_average = 6.8989897
+fNonorm_average = 1.0
+fitness normalized for norm 1 = 6.8989897
+fitness normalized for norm 2 = 1.0
+Previous proportion norm 1 = 99.0
+Previous proportion norm 2 = 1.0
+New proportion fnorm 1 99.853806
+New proportion fnorm 2 0.14619884
+Real Proportions... norm (N1) = 98 norm (N2) = 2
+equilibrium = 0
+
+STEP RESUME
+----------------------------
+Step: 4501
+fnorm_average = 7.867347
+fNonorm_average = 1.5
+fitness normalized for norm 1 = 7.867347
+fitness normalized for norm 2 = 1.5
+Previous proportion norm 1 = 98.0
+Previous proportion norm 2 = 2.0
+New proportion fnorm 1 99.612404
+New proportion fnorm 2 0.3875969
+Real Proportions... norm (N1) = 98 norm (N2) = 2
+equilibrium = 1
+
+STEP RESUME
+----------------------------
+Step: 5001
+fnorm_average = 12.785714
+fNonorm_average = 4.0
+fitness normalized for norm 1 = 12.785714
+fitness normalized for norm 2 = 4.0
+Previous proportion norm 1 = 98.0
+Previous proportion norm 2 = 2.0
+New proportion fnorm 1 99.36558
+New proportion fnorm 2 0.6344171
+Real Proportions... norm (N1) = 99 norm (N2) = 1
+equilibrium = 0
+
+STEP RESUME
+----------------------------
+Step: 5501
+fnorm_average = 20.747475
+fNonorm_average = 8.0
+fitness normalized for norm 1 = 20.747475
+fitness normalized for norm 2 = 8.0
+Previous proportion norm 1 = 99.0
+Previous proportion norm 2 = 1.0
+New proportion fnorm 1 99.61203
+New proportion fnorm 2 0.38797286
+Real Proportions... norm (N1) = 100 norm () = 0
+equilibrium = 0
+End of simulation

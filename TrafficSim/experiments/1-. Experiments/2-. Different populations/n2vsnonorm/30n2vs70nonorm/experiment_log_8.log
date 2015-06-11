@@ -1,0 +1,73 @@
+
+Starting simulation with random seed = 1432542524083
+
+STEP RESUME
+----------------------------
+Step: 501
+fnorm_average = 13.514285
+fNonorm_average = 5.6571426
+fitness normalized for norm 1 = 13.514285
+fitness normalized for norm 2 = 5.6571426
+Previous proportion norm 1 = 30.0
+Previous proportion norm 2 = 70.0
+New proportion fnorm 1 50.588234
+New proportion fnorm 2 49.411766
+Real Proportions... norm (N1) = 47 norm (No norm) = 53
+equilibrium = 0
+
+STEP RESUME
+----------------------------
+Step: 1001
+fnorm_average = 10.132075
+fNonorm_average = 4.5660377
+fitness normalized for norm 1 = 10.132075
+fitness normalized for norm 2 = 4.5660377
+Previous proportion norm 1 = 47.0
+Previous proportion norm 2 = 53.0
+New proportion fnorm 1 66.30501
+New proportion fnorm 2 33.694996
+Real Proportions... norm (N1) = 74 norm (No norm) = 26
+equilibrium = 0
+
+STEP RESUME
+----------------------------
+Step: 1501
+fnorm_average = 4.9407487
+fNonorm_average = 0.9230769
+fitness normalized for norm 1 = 4.9407487
+fitness normalized for norm 2 = 0.9230769
+Previous proportion norm 1 = 74.0
+Previous proportion norm 2 = 26.0
+New proportion fnorm 1 93.84008
+New proportion fnorm 2 6.1599207
+Real Proportions... norm (N1) = 92 norm (No norm) = 8
+equilibrium = 0
+
+STEP RESUME
+----------------------------
+Step: 2001
+fnorm_average = 8.043478
+fNonorm_average = 1.75
+fitness normalized for norm 1 = 8.043478
+fitness normalized for norm 2 = 1.75
+Previous proportion norm 1 = 92.0
+Previous proportion norm 2 = 8.0
+New proportion fnorm 1 98.143234
+New proportion fnorm 2 1.8567638
+Real Proportions... norm (N1) = 99 norm (No norm) = 1
+equilibrium = 0
+
+STEP RESUME
+----------------------------
+Step: 2501
+fnorm_average = 5.010101
+fNonorm_average = 5.0
+fitness normalized for norm 1 = 5.010101
+fitness normalized for norm 2 = 5.0
+Previous proportion norm 1 = 99.0
+Previous proportion norm 2 = 1.0
+New proportion fnorm 1 99.002
+New proportion fnorm 2 0.9980041
+Real Proportions... norm (N1) = 100 norm () = 0
+equilibrium = 0
+End of simulation

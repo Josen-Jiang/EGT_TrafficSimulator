@@ -1,0 +1,59 @@
+
+Starting simulation with random seed = 1432542590446
+
+STEP RESUME
+----------------------------
+Step: 501
+fnorm_average = 17.820002
+fNonorm_average = 6.78
+fitness normalized for norm 1 = 17.820002
+fitness normalized for norm 2 = 6.78
+Previous proportion norm 1 = 50.0
+Previous proportion norm 2 = 50.0
+New proportion fnorm 1 72.439026
+New proportion fnorm 2 27.560976
+Real Proportions... norm (N1) = 66 norm (No norm) = 34
+equilibrium = 0
+
+STEP RESUME
+----------------------------
+Step: 1001
+fnorm_average = 6.4652405
+fNonorm_average = 1.8235294
+fitness normalized for norm 1 = 6.4652405
+fitness normalized for norm 2 = 1.8235294
+Previous proportion norm 1 = 66.0
+Previous proportion norm 2 = 34.0
+New proportion fnorm 1 87.31343
+New proportion fnorm 2 12.686567
+Real Proportions... norm (N1) = 93 norm (No norm) = 7
+equilibrium = 0
+
+STEP RESUME
+----------------------------
+Step: 1501
+fnorm_average = 9.519201
+fNonorm_average = 2.5714285
+fitness normalized for norm 1 = 9.519201
+fitness normalized for norm 2 = 2.5714285
+Previous proportion norm 1 = 93.0
+Previous proportion norm 2 = 7.0
+New proportion fnorm 1 98.00727
+New proportion fnorm 2 1.992725
+Real Proportions... norm (N1) = 99 norm (No norm) = 1
+equilibrium = 0
+
+STEP RESUME
+----------------------------
+Step: 2001
+fnorm_average = 30.818182
+fNonorm_average = 13.0
+fitness normalized for norm 1 = 30.818182
+fitness normalized for norm 2 = 13.0
+Previous proportion norm 1 = 99.0
+Previous proportion norm 2 = 1.0
+New proportion fnorm 1 99.575714
+New proportion fnorm 2 0.42428198
+Real Proportions... norm (N1) = 100 norm () = 0
+equilibrium = 0
+End of simulation

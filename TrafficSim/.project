@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>TrafficSim</name>
+	<comment>@key 32303037303533312D313020496E74657273656374696F6E4A2F4A616E </comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>repast.simphony.score.agents.repast_simphony_builder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+		<buildCommand>
+			<name>com.soyatec.additional.Builder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jem.workbench.JavaEMFNature</nature>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+		<nature>repast.simphony.score.agents.repast_simphony_nature</nature>
+		<nature>com.soyatec.additional.Nature</nature>
+		<nature>org.eclipse.jem.beaninfo.BeanInfoNature</nature>
+	</natures>
+</projectDescription>

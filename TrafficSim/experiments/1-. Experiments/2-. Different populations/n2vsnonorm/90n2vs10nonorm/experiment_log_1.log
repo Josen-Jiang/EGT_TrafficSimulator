@@ -1,0 +1,73 @@
+
+Starting simulation with random seed = 1432542773999
+
+STEP RESUME
+----------------------------
+Step: 501
+fnorm_average = 6.222222
+fNonorm_average = 1.1
+fitness normalized for norm 1 = 6.222222
+fitness normalized for norm 2 = 1.1
+Previous proportion norm 1 = 90.0
+Previous proportion norm 2 = 10.0
+New proportion fnorm 1 98.073555
+New proportion fnorm 2 1.926445
+Real Proportions... norm (N1) = 99 norm (No norm) = 1
+equilibrium = 0
+
+STEP RESUME
+----------------------------
+Step: 1001
+fnorm_average = 4.969697
+fNonorm_average = 5.0
+fitness normalized for norm 1 = 4.969697
+fitness normalized for norm 2 = 5.0
+Previous proportion norm 1 = 99.0
+Previous proportion norm 2 = 1.0
+New proportion fnorm 1 98.993965
+New proportion fnorm 2 1.0060363
+Real Proportions... norm (N1) = 97 norm (No norm) = 3
+equilibrium = 0
+
+STEP RESUME
+----------------------------
+Step: 1501
+fnorm_average = 14.6907215
+fNonorm_average = 5.0
+fitness normalized for norm 1 = 14.6907215
+fitness normalized for norm 2 = 5.0
+Previous proportion norm 1 = 97.0
+Previous proportion norm 2 = 3.0
+New proportion fnorm 1 98.95833
+New proportion fnorm 2 1.0416667
+Real Proportions... norm (N1) = 97 norm (No norm) = 3
+equilibrium = 1
+
+STEP RESUME
+----------------------------
+Step: 2001
+fnorm_average = 5.010309
+fNonorm_average = 5.0
+fitness normalized for norm 1 = 5.010309
+fitness normalized for norm 2 = 5.0
+Previous proportion norm 1 = 97.0
+Previous proportion norm 2 = 3.0
+New proportion fnorm 1 97.00599
+New proportion fnorm 2 2.9940119
+Real Proportions... norm (N1) = 98 norm (No norm) = 2
+equilibrium = 0
+
+STEP RESUME
+----------------------------
+Step: 2501
+fnorm_average = 6.877551
+fNonorm_average = 1.0
+fitness normalized for norm 1 = 6.877551
+fitness normalized for norm 2 = 1.0
+Previous proportion norm 1 = 98.0
+Previous proportion norm 2 = 2.0
+New proportion fnorm 1 99.70414
+New proportion fnorm 2 0.295858
+Real Proportions... norm (N1) = 100 norm () = 0
+equilibrium = 0
+End of simulation

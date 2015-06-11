@@ -1,0 +1,73 @@
+
+Starting simulation with random seed = 1432541808095
+
+STEP RESUME
+----------------------------
+Step: 501
+fnorm_average = 15.966666
+fNonorm_average = 5.9333334
+fitness normalized for norm 1 = 15.966666
+fitness normalized for norm 2 = 5.9333334
+Previous proportion norm 1 = 70.0
+Previous proportion norm 2 = 30.0
+New proportion fnorm 1 86.2619
+New proportion fnorm 2 13.738102
+Real Proportions... norm (N1) = 85 norm (No norm) = 15
+equilibrium = 0
+
+STEP RESUME
+----------------------------
+Step: 1001
+fnorm_average = 6.894118
+fNonorm_average = 1.4
+fitness normalized for norm 1 = 6.894118
+fitness normalized for norm 2 = 1.4
+Previous proportion norm 1 = 85.0
+Previous proportion norm 2 = 15.0
+New proportion fnorm 1 96.54036
+New proportion fnorm 2 3.4596376
+Real Proportions... norm (N1) = 92 norm (No norm) = 8
+equilibrium = 0
+
+STEP RESUME
+----------------------------
+Step: 1501
+fnorm_average = 4.6086955
+fNonorm_average = 0.5
+fitness normalized for norm 1 = 4.6086955
+fitness normalized for norm 2 = 0.5
+Previous proportion norm 1 = 92.0
+Previous proportion norm 2 = 8.0
+New proportion fnorm 1 99.06542
+New proportion fnorm 2 0.93457943
+Real Proportions... norm (N1) = 97 norm (No norm) = 3
+equilibrium = 0
+
+STEP RESUME
+----------------------------
+Step: 2001
+fnorm_average = 26.628866
+fNonorm_average = 11.0
+fitness normalized for norm 1 = 26.628866
+fitness normalized for norm 2 = 11.0
+Previous proportion norm 1 = 97.0
+Previous proportion norm 2 = 3.0
+New proportion fnorm 1 98.73853
+New proportion fnorm 2 1.2614678
+Real Proportions... norm (N1) = 99 norm (No norm) = 1
+equilibrium = 0
+
+STEP RESUME
+----------------------------
+Step: 2501
+fnorm_average = 6.949495
+fNonorm_average = 1.0
+fitness normalized for norm 1 = 6.949495
+fitness normalized for norm 2 = 1.0
+Previous proportion norm 1 = 99.0
+Previous proportion norm 2 = 1.0
+New proportion fnorm 1 99.854866
+New proportion fnorm 2 0.14513788
+Real Proportions... norm (N1) = 100 norm () = 0
+equilibrium = 0
+End of simulation

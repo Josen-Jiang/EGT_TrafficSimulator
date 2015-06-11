@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><sweep runs="1">
+	<parameter constant_type="number" name="popu_a" type="constant" value="45"/>
+	<parameter constant_type="number" name="popu_b" type="constant" value="55"/>
+	<parameter constant_type="number" name="fitnessTime" type="constant" value="500"/>
+	<parameter constant_type="number" name="penalty" type="constant" value="5"/>
+	<parameter constant_type="number" name="max_ticks_without_moving" type="constant" value="5"/>
+	<parameter constant_type="number" name="SimMap" type="constant" value="1"/>
+	<parameter constant_type="number" name="SimNewCarsFreq" type="constant" value="1"/>
+	<parameter constant_type="number" name="SimCarsDensity" type="constant" value="0.5"/>
+	<parameter constant_type="number" name="SimNumCarsToEmit" type="constant" value="1"/>
+	<parameter constant_type="number" name="SimRandomSeed" type="constant" value="0l"/>
+	<parameter constant_type="number" name="SimMaxTicks" type="constant" value="50000"/>
+	<parameter constant_type="boolean" name="SimGUI" type="constant" value="false"/>
+	<parameter constant_type="boolean" name="SimUseSemaphores" type="constant" value="false"/>
+	<parameter constant_type="boolean" name="SimOnlySemaphores" type="constant" value="false"/>
+	<parameter constant_type="number" name="SimNormViolationRate" type="constant" value="0.0"/>
+	<parameter constant_type="number" name="NormsGenEffThreshold" type="constant" value="0.4"/>
+	<parameter constant_type="number" name="NormsGenNecThreshold" type="constant" value="0.4"/>
+	<parameter constant_type="number" name="NormsSpecEffThreshold" type="constant" value="0.2"/>
+	<parameter constant_type="number" name="NormsSpecNecThreshold" type="constant" value="0.1"/>
+	<parameter constant_type="number" name="NormsUtilityWindowSize" type="constant" value="200"/>
+	<parameter constant_type="number" name="NormsDefaultUtility" type="constant" value="0.5"/>
+	<parameter constant_type="number" name="NumTicksToConverge" type="constant" value="1000"/>
+	<parameter constant_type="number" name="NormsWeightCol" type="constant" value="5"/>
+	<parameter constant_type="number" name="NormsWeightNoCol" type="constant" value="1"/>
+	<parameter constant_type="number" name="NormsWeightFluidTraffic" type="constant" value="2"/>
+	<parameter constant_type="number" name="NumExec" type="constant" value="1"/>
+</sweep>
